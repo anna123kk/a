@@ -3384,6 +3384,843 @@
     "note": ""
   },
   {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 0.5,
+    "rateUSD": 38.3,
+    "duration": "2-5 days",
+    "rateKRW": 45521,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 1,
+    "rateUSD": 41.92,
+    "duration": "2-5 days",
+    "rateKRW": 49829,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 1.5,
+    "rateUSD": 45.82,
+    "duration": "2-5 days",
+    "rateKRW": 54466,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 2,
+    "rateUSD": 48.72,
+    "duration": "2-5 days",
+    "rateKRW": 57911,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 2.5,
+    "rateUSD": 51.6,
+    "duration": "2-5 days",
+    "rateKRW": 61329,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 3,
+    "rateUSD": 55.12,
+    "duration": "2-5 days",
+    "rateKRW": 65517,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 3.5,
+    "rateUSD": 58.74,
+    "duration": "2-5 days",
+    "rateKRW": 69818,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 4,
+    "rateUSD": 64.79,
+    "duration": "2-5 days",
+    "rateKRW": 77006,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 4.5,
+    "rateUSD": 68.36,
+    "duration": "2-5 days",
+    "rateKRW": 81251,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 5,
+    "rateUSD": 72.89,
+    "duration": "2-5 days",
+    "rateKRW": 86633,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 5.5,
+    "rateUSD": 75.67,
+    "duration": "2-5 days",
+    "rateKRW": 89940,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 6,
+    "rateUSD": 79.2,
+    "duration": "2-5 days",
+    "rateKRW": 94137,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 6.5,
+    "rateUSD": 82,
+    "duration": "2-5 days",
+    "rateKRW": 97471,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 7,
+    "rateUSD": 84.76,
+    "duration": "2-5 days",
+    "rateKRW": 100751,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 7.5,
+    "rateUSD": 87.55,
+    "duration": "2-5 days",
+    "rateKRW": 104059,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 8,
+    "rateUSD": 90.28,
+    "duration": "2-5 days",
+    "rateKRW": 107310,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 8.5,
+    "rateUSD": 93.04,
+    "duration": "2-5 days",
+    "rateKRW": 110590,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 9,
+    "rateUSD": 95.8,
+    "duration": "2-5 days",
+    "rateKRW": 113870,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 9.5,
+    "rateUSD": 98.61,
+    "duration": "2-5 days",
+    "rateKRW": 117204,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 10,
+    "rateUSD": 101.44,
+    "duration": "2-5 days",
+    "rateKRW": 120567,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 10.5,
+    "rateUSD": 103.64,
+    "duration": "2-5 days",
+    "rateKRW": 123185,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 11,
+    "rateUSD": 105.91,
+    "duration": "2-5 days",
+    "rateKRW": 125886,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 11.5,
+    "rateUSD": 108.14,
+    "duration": "2-5 days",
+    "rateKRW": 128531,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 12,
+    "rateUSD": 110.45,
+    "duration": "2-5 days",
+    "rateKRW": 131287,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 12.5,
+    "rateUSD": 112.77,
+    "duration": "2-5 days",
+    "rateKRW": 134043,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 13,
+    "rateUSD": 115,
+    "duration": "2-5 days",
+    "rateKRW": 136690,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 13.5,
+    "rateUSD": 117.32,
+    "duration": "2-5 days",
+    "rateKRW": 139446,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 14,
+    "rateUSD": 119.59,
+    "duration": "2-5 days",
+    "rateKRW": 142146,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 14.5,
+    "rateUSD": 121.93,
+    "duration": "2-5 days",
+    "rateKRW": 144929,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 15,
+    "rateUSD": 124.23,
+    "duration": "2-5 days",
+    "rateKRW": 147658,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 15.5,
+    "rateUSD": 125.11,
+    "duration": "2-5 days",
+    "rateKRW": 148706,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 16,
+    "rateUSD": 126.15,
+    "duration": "2-5 days",
+    "rateKRW": 149946,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 16.5,
+    "rateUSD": 127.24,
+    "duration": "2-5 days",
+    "rateKRW": 151241,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 17,
+    "rateUSD": 128.22,
+    "duration": "2-5 days",
+    "rateKRW": 152399,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 17.5,
+    "rateUSD": 129.1,
+    "duration": "2-5 days",
+    "rateKRW": 153446,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 18,
+    "rateUSD": 130.07,
+    "duration": "2-5 days",
+    "rateKRW": 154604,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 18.5,
+    "rateUSD": 131,
+    "duration": "2-5 days",
+    "rateKRW": 155706,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 19,
+    "rateUSD": 131.9,
+    "duration": "2-5 days",
+    "rateKRW": 156780,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 19.5,
+    "rateUSD": 132.74,
+    "duration": "2-5 days",
+    "rateKRW": 157773,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 20,
+    "rateUSD": 134.13,
+    "duration": "2-5 days",
+    "rateKRW": 159427,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 21,
+    "rateUSD": 139.97,
+    "duration": "2-5 days",
+    "rateKRW": 166371,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 22,
+    "rateUSD": 146.12,
+    "duration": "2-5 days",
+    "rateKRW": 173675,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 23,
+    "rateUSD": 152.26,
+    "duration": "2-5 days",
+    "rateKRW": 180978,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 24,
+    "rateUSD": 158.41,
+    "duration": "2-5 days",
+    "rateKRW": 188282,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 25,
+    "rateUSD": 164.55,
+    "duration": "2-5 days",
+    "rateKRW": 195585,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 26,
+    "rateUSD": 170.69,
+    "duration": "2-5 days",
+    "rateKRW": 202888,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 27,
+    "rateUSD": 176.84,
+    "duration": "2-5 days",
+    "rateKRW": 210192,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 28,
+    "rateUSD": 182.98,
+    "duration": "2-5 days",
+    "rateKRW": 217495,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 29,
+    "rateUSD": 189.13,
+    "duration": "2-5 days",
+    "rateKRW": 224799,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 30,
+    "rateUSD": 195.27,
+    "duration": "2-5 days",
+    "rateKRW": 232102,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 0.5,
+    "rateUSD": 17.1,
+    "duration": "7-14 days",
+    "rateKRW": 20330,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 0.75,
+    "rateUSD": 19.46,
+    "duration": "7-14 days",
+    "rateKRW": 23130,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 1,
+    "rateUSD": 21.82,
+    "duration": "7-14 days",
+    "rateKRW": 25930,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 1.25,
+    "rateUSD": 23.33,
+    "duration": "7-14 days",
+    "rateKRW": 27730,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 1.5,
+    "rateUSD": 24.84,
+    "duration": "7-14 days",
+    "rateKRW": 29530,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 1.75,
+    "rateUSD": 26.36,
+    "duration": "7-14 days",
+    "rateKRW": 31330,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 2,
+    "rateUSD": 27.87,
+    "duration": "7-14 days",
+    "rateKRW": 33130,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 2.5,
+    "rateUSD": 33.43,
+    "duration": "7-14 days",
+    "rateKRW": 39730,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 3,
+    "rateUSD": 36.45,
+    "duration": "7-14 days",
+    "rateKRW": 43330,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 3.5,
+    "rateUSD": 39.96,
+    "duration": "7-14 days",
+    "rateKRW": 47500,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 4,
+    "rateUSD": 42.99,
+    "duration": "7-14 days",
+    "rateKRW": 51100,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 4.5,
+    "rateUSD": 46.86,
+    "duration": "7-14 days",
+    "rateKRW": 55700,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 5,
+    "rateUSD": 49.89,
+    "duration": "7-14 days",
+    "rateKRW": 59300,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 5.5,
+    "rateUSD": 52.57,
+    "duration": "7-14 days",
+    "rateKRW": 62480,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 6,
+    "rateUSD": 55.59,
+    "duration": "7-14 days",
+    "rateKRW": 66080,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 6.5,
+    "rateUSD": 58.62,
+    "duration": "7-14 days",
+    "rateKRW": 69680,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 7,
+    "rateUSD": 61.65,
+    "duration": "7-14 days",
+    "rateKRW": 73280,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 7.5,
+    "rateUSD": 65.03,
+    "duration": "7-14 days",
+    "rateKRW": 77300,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 8,
+    "rateUSD": 68.42,
+    "duration": "7-14 days",
+    "rateKRW": 81330,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 8.5,
+    "rateUSD": 71.45,
+    "duration": "7-14 days",
+    "rateKRW": 84930,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 9,
+    "rateUSD": 74.84,
+    "duration": "7-14 days",
+    "rateKRW": 88950,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 9.5,
+    "rateUSD": 78.23,
+    "duration": "7-14 days",
+    "rateKRW": 92980,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 10,
+    "rateUSD": 81.61,
+    "duration": "7-14 days",
+    "rateKRW": 97000,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 10.5,
+    "rateUSD": 84.64,
+    "duration": "7-14 days",
+    "rateKRW": 100600,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 11,
+    "rateUSD": 88.03,
+    "duration": "7-14 days",
+    "rateKRW": 104630,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 11.5,
+    "rateUSD": 91.41,
+    "duration": "7-14 days",
+    "rateKRW": 108650,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 12,
+    "rateUSD": 94.44,
+    "duration": "7-14 days",
+    "rateKRW": 112250,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 12.5,
+    "rateUSD": 97.83,
+    "duration": "7-14 days",
+    "rateKRW": 116280,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 13,
+    "rateUSD": 101.21,
+    "duration": "7-14 days",
+    "rateKRW": 120300,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 13.5,
+    "rateUSD": 104.24,
+    "duration": "7-14 days",
+    "rateKRW": 123900,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 14,
+    "rateUSD": 107.63,
+    "duration": "7-14 days",
+    "rateKRW": 127930,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 14.5,
+    "rateUSD": 111.01,
+    "duration": "7-14 days",
+    "rateKRW": 131950,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 15,
+    "rateUSD": 114.04,
+    "duration": "7-14 days",
+    "rateKRW": 135550,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 15.5,
+    "rateUSD": 117.43,
+    "duration": "7-14 days",
+    "rateKRW": 139580,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 16,
+    "rateUSD": 120.81,
+    "duration": "7-14 days",
+    "rateKRW": 143600,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 16.5,
+    "rateUSD": 123.84,
+    "duration": "7-14 days",
+    "rateKRW": 147200,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 17,
+    "rateUSD": 127.23,
+    "duration": "7-14 days",
+    "rateKRW": 151230,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 17.5,
+    "rateUSD": 130.61,
+    "duration": "7-14 days",
+    "rateKRW": 155250,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 18,
+    "rateUSD": 133.64,
+    "duration": "7-14 days",
+    "rateKRW": 158850,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 18.5,
+    "rateUSD": 137.03,
+    "duration": "7-14 days",
+    "rateKRW": 162880,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 19,
+    "rateUSD": 140.42,
+    "duration": "7-14 days",
+    "rateKRW": 166900,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 19.5,
+    "rateUSD": 143.81,
+    "duration": "7-14 days",
+    "rateKRW": 170930,
+    "note": ""
+  },
+  {
+    "country": "Cambodia",
+    "carrier": "EMS",
+    "maxWeight": 20,
+    "rateUSD": 146.84,
+    "duration": "7-14 days",
+    "rateKRW": 174530,
+    "note": ""
+  },
+  {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 0.5,
@@ -14976,6 +15813,366 @@
     "note": ""
   },
   {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 0.5,
+    "rateUSD": 30.26,
+    "duration": "2-5 days",
+    "rateKRW": 36170,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 1,
+    "rateUSD": 33.34,
+    "duration": "2-5 days",
+    "rateKRW": 39629,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 1.5,
+    "rateUSD": 36.47,
+    "duration": "2-5 days",
+    "rateKRW": 43343,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 2,
+    "rateUSD": 38.7,
+    "duration": "2-5 days",
+    "rateKRW": 46000,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 2.5,
+    "rateUSD": 41.11,
+    "duration": "2-5 days",
+    "rateKRW": 48862,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 3,
+    "rateUSD": 43.54,
+    "duration": "2-5 days",
+    "rateKRW": 51749,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 3.5,
+    "rateUSD": 45.89,
+    "duration": "2-5 days",
+    "rateKRW": 54544,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 4,
+    "rateUSD": 50.87,
+    "duration": "2-5 days",
+    "rateKRW": 60460,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 4.5,
+    "rateUSD": 53.29,
+    "duration": "2-5 days",
+    "rateKRW": 63340,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 5,
+    "rateUSD": 56.55,
+    "duration": "2-5 days",
+    "rateKRW": 67213,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 5.5,
+    "rateUSD": 58.99,
+    "duration": "2-5 days",
+    "rateKRW": 70118,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 6,
+    "rateUSD": 62.22,
+    "duration": "2-5 days",
+    "rateKRW": 73951,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 6.5,
+    "rateUSD": 64.68,
+    "duration": "2-5 days",
+    "rateKRW": 76875,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 7,
+    "rateUSD": 67.05,
+    "duration": "2-5 days",
+    "rateKRW": 79691,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 7.5,
+    "rateUSD": 69.48,
+    "duration": "2-5 days",
+    "rateKRW": 82587,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 8,
+    "rateUSD": 71.68,
+    "duration": "2-5 days",
+    "rateKRW": 85194,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 8.5,
+    "rateUSD": 73.87,
+    "duration": "2-5 days",
+    "rateKRW": 87802,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 9,
+    "rateUSD": 76.06,
+    "duration": "2-5 days",
+    "rateKRW": 90408,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 9.5,
+    "rateUSD": 78.29,
+    "duration": "2-5 days",
+    "rateKRW": 93052,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 10,
+    "rateUSD": 80.51,
+    "duration": "2-5 days",
+    "rateKRW": 95698,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 10.5,
+    "rateUSD": 82.14,
+    "duration": "2-5 days",
+    "rateKRW": 97627,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 11,
+    "rateUSD": 83.79,
+    "duration": "2-5 days",
+    "rateKRW": 99596,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 11.5,
+    "rateUSD": 85.51,
+    "duration": "2-5 days",
+    "rateKRW": 101634,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 12,
+    "rateUSD": 87.13,
+    "duration": "2-5 days",
+    "rateKRW": 103559,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 12.5,
+    "rateUSD": 88.78,
+    "duration": "2-5 days",
+    "rateKRW": 105526,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 13,
+    "rateUSD": 90.23,
+    "duration": "2-5 days",
+    "rateKRW": 107251,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 13.5,
+    "rateUSD": 91.65,
+    "duration": "2-5 days",
+    "rateKRW": 108933,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 14,
+    "rateUSD": 93.09,
+    "duration": "2-5 days",
+    "rateKRW": 110648,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 14.5,
+    "rateUSD": 94.51,
+    "duration": "2-5 days",
+    "rateKRW": 112331,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 15,
+    "rateUSD": 95.95,
+    "duration": "2-5 days",
+    "rateKRW": 114049,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 15.5,
+    "rateUSD": 96.32,
+    "duration": "2-5 days",
+    "rateKRW": 114484,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 16,
+    "rateUSD": 96.8,
+    "duration": "2-5 days",
+    "rateKRW": 115062,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 16.5,
+    "rateUSD": 97.16,
+    "duration": "2-5 days",
+    "rateKRW": 115485,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 17,
+    "rateUSD": 97.53,
+    "duration": "2-5 days",
+    "rateKRW": 115920,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 17.5,
+    "rateUSD": 98.04,
+    "duration": "2-5 days",
+    "rateKRW": 116533,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 18,
+    "rateUSD": 98.35,
+    "duration": "2-5 days",
+    "rateKRW": 116895,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 18.5,
+    "rateUSD": 98.62,
+    "duration": "2-5 days",
+    "rateKRW": 117222,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 19,
+    "rateUSD": 99.03,
+    "duration": "2-5 days",
+    "rateKRW": 117706,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 19.5,
+    "rateUSD": 99.39,
+    "duration": "2-5 days",
+    "rateKRW": 118140,
+    "note": ""
+  },
+  {
+    "country": "Philippines",
+    "carrier": "UPS (Express)",
+    "maxWeight": 20,
+    "rateUSD": 99.82,
+    "duration": "2-5 days",
+    "rateKRW": 118646,
+    "note": ""
+  },
+  {
     "country": "Poland",
     "carrier": "EMS",
     "maxWeight": 0.5,
@@ -22083,1203 +23280,6 @@
     "rateUSD": 370.35,
     "duration": "7-14 days",
     "rateKRW": "",
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 0.5,
-    "rateUSD": 30.26,
-    "duration": "2-5 days",
-    "rateKRW": 36170,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 1,
-    "rateUSD": 33.34,
-    "duration": "2-5 days",
-    "rateKRW": 39629,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 1.5,
-    "rateUSD": 36.47,
-    "duration": "2-5 days",
-    "rateKRW": 43343,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 2,
-    "rateUSD": 38.7,
-    "duration": "2-5 days",
-    "rateKRW": 46000,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 2.5,
-    "rateUSD": 41.11,
-    "duration": "2-5 days",
-    "rateKRW": 48862,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 3,
-    "rateUSD": 43.54,
-    "duration": "2-5 days",
-    "rateKRW": 51749,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 3.5,
-    "rateUSD": 45.89,
-    "duration": "2-5 days",
-    "rateKRW": 54544,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 4,
-    "rateUSD": 50.87,
-    "duration": "2-5 days",
-    "rateKRW": 60460,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 4.5,
-    "rateUSD": 53.29,
-    "duration": "2-5 days",
-    "rateKRW": 63340,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 5,
-    "rateUSD": 56.55,
-    "duration": "2-5 days",
-    "rateKRW": 67213,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 5.5,
-    "rateUSD": 58.99,
-    "duration": "2-5 days",
-    "rateKRW": 70118,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 6,
-    "rateUSD": 62.22,
-    "duration": "2-5 days",
-    "rateKRW": 73951,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 6.5,
-    "rateUSD": 64.68,
-    "duration": "2-5 days",
-    "rateKRW": 76875,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 7,
-    "rateUSD": 67.05,
-    "duration": "2-5 days",
-    "rateKRW": 79691,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 7.5,
-    "rateUSD": 69.48,
-    "duration": "2-5 days",
-    "rateKRW": 82587,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 8,
-    "rateUSD": 71.68,
-    "duration": "2-5 days",
-    "rateKRW": 85194,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 8.5,
-    "rateUSD": 73.87,
-    "duration": "2-5 days",
-    "rateKRW": 87802,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 9,
-    "rateUSD": 76.06,
-    "duration": "2-5 days",
-    "rateKRW": 90408,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 9.5,
-    "rateUSD": 78.29,
-    "duration": "2-5 days",
-    "rateKRW": 93052,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 10,
-    "rateUSD": 80.51,
-    "duration": "2-5 days",
-    "rateKRW": 95698,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 10.5,
-    "rateUSD": 82.14,
-    "duration": "2-5 days",
-    "rateKRW": 97627,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 11,
-    "rateUSD": 83.79,
-    "duration": "2-5 days",
-    "rateKRW": 99596,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 11.5,
-    "rateUSD": 85.51,
-    "duration": "2-5 days",
-    "rateKRW": 101634,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 12,
-    "rateUSD": 87.13,
-    "duration": "2-5 days",
-    "rateKRW": 103559,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 12.5,
-    "rateUSD": 88.78,
-    "duration": "2-5 days",
-    "rateKRW": 105526,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 13,
-    "rateUSD": 90.23,
-    "duration": "2-5 days",
-    "rateKRW": 107251,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 13.5,
-    "rateUSD": 91.65,
-    "duration": "2-5 days",
-    "rateKRW": 108933,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 14,
-    "rateUSD": 93.09,
-    "duration": "2-5 days",
-    "rateKRW": 110648,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 14.5,
-    "rateUSD": 94.51,
-    "duration": "2-5 days",
-    "rateKRW": 112331,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 15,
-    "rateUSD": 95.95,
-    "duration": "2-5 days",
-    "rateKRW": 114049,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 15.5,
-    "rateUSD": 96.32,
-    "duration": "2-5 days",
-    "rateKRW": 114484,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 16,
-    "rateUSD": 96.8,
-    "duration": "2-5 days",
-    "rateKRW": 115062,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 16.5,
-    "rateUSD": 97.16,
-    "duration": "2-5 days",
-    "rateKRW": 115485,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 17,
-    "rateUSD": 97.53,
-    "duration": "2-5 days",
-    "rateKRW": 115920,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 17.5,
-    "rateUSD": 98.04,
-    "duration": "2-5 days",
-    "rateKRW": 116533,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 18,
-    "rateUSD": 98.35,
-    "duration": "2-5 days",
-    "rateKRW": 116895,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 18.5,
-    "rateUSD": 98.62,
-    "duration": "2-5 days",
-    "rateKRW": 117222,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 19,
-    "rateUSD": 99.03,
-    "duration": "2-5 days",
-    "rateKRW": 117706,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 19.5,
-    "rateUSD": 99.39,
-    "duration": "2-5 days",
-    "rateKRW": 118140,
-    "note": ""
-  },
-  {
-    "country": "Philippines",
-    "carrier": "UPS (Express)",
-    "maxWeight": 20,
-    "rateUSD": 99.82,
-    "duration": "2-5 days",
-    "rateKRW": 118646,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 0.5,
-    "rateUSD": 38.3,
-    "duration": "2-5 days",
-    "rateKRW": 45521,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 1,
-    "rateUSD": 41.92,
-    "duration": "2-5 days",
-    "rateKRW": 49829,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 1.5,
-    "rateUSD": 45.82,
-    "duration": "2-5 days",
-    "rateKRW": 54466,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 2,
-    "rateUSD": 48.72,
-    "duration": "2-5 days",
-    "rateKRW": 57911,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 2.5,
-    "rateUSD": 51.6,
-    "duration": "2-5 days",
-    "rateKRW": 61329,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 3,
-    "rateUSD": 55.12,
-    "duration": "2-5 days",
-    "rateKRW": 65517,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 3.5,
-    "rateUSD": 58.74,
-    "duration": "2-5 days",
-    "rateKRW": 69818,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 4,
-    "rateUSD": 64.79,
-    "duration": "2-5 days",
-    "rateKRW": 77006,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 4.5,
-    "rateUSD": 68.36,
-    "duration": "2-5 days",
-    "rateKRW": 81251,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 5,
-    "rateUSD": 72.89,
-    "duration": "2-5 days",
-    "rateKRW": 86633,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 5.5,
-    "rateUSD": 75.67,
-    "duration": "2-5 days",
-    "rateKRW": 89940,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 6,
-    "rateUSD": 79.2,
-    "duration": "2-5 days",
-    "rateKRW": 94137,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 6.5,
-    "rateUSD": 82,
-    "duration": "2-5 days",
-    "rateKRW": 97471,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 7,
-    "rateUSD": 84.76,
-    "duration": "2-5 days",
-    "rateKRW": 100751,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 7.5,
-    "rateUSD": 87.55,
-    "duration": "2-5 days",
-    "rateKRW": 104059,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 8,
-    "rateUSD": 90.28,
-    "duration": "2-5 days",
-    "rateKRW": 107310,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 8.5,
-    "rateUSD": 93.04,
-    "duration": "2-5 days",
-    "rateKRW": 110590,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 9,
-    "rateUSD": 95.8,
-    "duration": "2-5 days",
-    "rateKRW": 113870,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 9.5,
-    "rateUSD": 98.61,
-    "duration": "2-5 days",
-    "rateKRW": 117204,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 10,
-    "rateUSD": 101.44,
-    "duration": "2-5 days",
-    "rateKRW": 120567,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 10.5,
-    "rateUSD": 103.64,
-    "duration": "2-5 days",
-    "rateKRW": 123185,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 11,
-    "rateUSD": 105.91,
-    "duration": "2-5 days",
-    "rateKRW": 125886,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 11.5,
-    "rateUSD": 108.14,
-    "duration": "2-5 days",
-    "rateKRW": 128531,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 12,
-    "rateUSD": 110.45,
-    "duration": "2-5 days",
-    "rateKRW": 131287,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 12.5,
-    "rateUSD": 112.77,
-    "duration": "2-5 days",
-    "rateKRW": 134043,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 13,
-    "rateUSD": 115,
-    "duration": "2-5 days",
-    "rateKRW": 136690,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 13.5,
-    "rateUSD": 117.32,
-    "duration": "2-5 days",
-    "rateKRW": 139446,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 14,
-    "rateUSD": 119.59,
-    "duration": "2-5 days",
-    "rateKRW": 142146,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 14.5,
-    "rateUSD": 121.93,
-    "duration": "2-5 days",
-    "rateKRW": 144929,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 15,
-    "rateUSD": 124.23,
-    "duration": "2-5 days",
-    "rateKRW": 147658,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 15.5,
-    "rateUSD": 125.11,
-    "duration": "2-5 days",
-    "rateKRW": 148706,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 16,
-    "rateUSD": 126.15,
-    "duration": "2-5 days",
-    "rateKRW": 149946,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 16.5,
-    "rateUSD": 127.24,
-    "duration": "2-5 days",
-    "rateKRW": 151241,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 17,
-    "rateUSD": 128.22,
-    "duration": "2-5 days",
-    "rateKRW": 152399,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 17.5,
-    "rateUSD": 129.1,
-    "duration": "2-5 days",
-    "rateKRW": 153446,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 18,
-    "rateUSD": 130.07,
-    "duration": "2-5 days",
-    "rateKRW": 154604,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 18.5,
-    "rateUSD": 131,
-    "duration": "2-5 days",
-    "rateKRW": 155706,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 19,
-    "rateUSD": 131.9,
-    "duration": "2-5 days",
-    "rateKRW": 156780,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 19.5,
-    "rateUSD": 132.74,
-    "duration": "2-5 days",
-    "rateKRW": 157773,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 20,
-    "rateUSD": 134.13,
-    "duration": "2-5 days",
-    "rateKRW": 159427,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 21,
-    "rateUSD": 139.97,
-    "duration": "2-5 days",
-    "rateKRW": 166371,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 22,
-    "rateUSD": 146.12,
-    "duration": "2-5 days",
-    "rateKRW": 173675,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 23,
-    "rateUSD": 152.26,
-    "duration": "2-5 days",
-    "rateKRW": 180978,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 24,
-    "rateUSD": 158.41,
-    "duration": "2-5 days",
-    "rateKRW": 188282,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 25,
-    "rateUSD": 164.55,
-    "duration": "2-5 days",
-    "rateKRW": 195585,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 26,
-    "rateUSD": 170.69,
-    "duration": "2-5 days",
-    "rateKRW": 202888,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 27,
-    "rateUSD": 176.84,
-    "duration": "2-5 days",
-    "rateKRW": 210192,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 28,
-    "rateUSD": 182.98,
-    "duration": "2-5 days",
-    "rateKRW": 217495,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 29,
-    "rateUSD": 189.13,
-    "duration": "2-5 days",
-    "rateKRW": 224799,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 30,
-    "rateUSD": 195.27,
-    "duration": "2-5 days",
-    "rateKRW": 232102,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 0.5,
-    "rateUSD": 17.1,
-    "duration": "7-14 days",
-    "rateKRW": 20330,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 0.75,
-    "rateUSD": 19.46,
-    "duration": "7-14 days",
-    "rateKRW": 23130,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 1,
-    "rateUSD": 21.82,
-    "duration": "7-14 days",
-    "rateKRW": 25930,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 1.25,
-    "rateUSD": 23.33,
-    "duration": "7-14 days",
-    "rateKRW": 27730,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 1.5,
-    "rateUSD": 24.84,
-    "duration": "7-14 days",
-    "rateKRW": 29530,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 1.75,
-    "rateUSD": 26.36,
-    "duration": "7-14 days",
-    "rateKRW": 31330,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 2,
-    "rateUSD": 27.87,
-    "duration": "7-14 days",
-    "rateKRW": 33130,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 2.5,
-    "rateUSD": 33.43,
-    "duration": "7-14 days",
-    "rateKRW": 39730,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 3,
-    "rateUSD": 36.45,
-    "duration": "7-14 days",
-    "rateKRW": 43330,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 3.5,
-    "rateUSD": 39.96,
-    "duration": "7-14 days",
-    "rateKRW": 47500,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 4,
-    "rateUSD": 42.99,
-    "duration": "7-14 days",
-    "rateKRW": 51100,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 4.5,
-    "rateUSD": 46.86,
-    "duration": "7-14 days",
-    "rateKRW": 55700,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 5,
-    "rateUSD": 49.89,
-    "duration": "7-14 days",
-    "rateKRW": 59300,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 5.5,
-    "rateUSD": 52.57,
-    "duration": "7-14 days",
-    "rateKRW": 62480,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 6,
-    "rateUSD": 55.59,
-    "duration": "7-14 days",
-    "rateKRW": 66080,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 6.5,
-    "rateUSD": 58.62,
-    "duration": "7-14 days",
-    "rateKRW": 69680,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 7,
-    "rateUSD": 61.65,
-    "duration": "7-14 days",
-    "rateKRW": 73280,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 7.5,
-    "rateUSD": 65.03,
-    "duration": "7-14 days",
-    "rateKRW": 77300,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 8,
-    "rateUSD": 68.42,
-    "duration": "7-14 days",
-    "rateKRW": 81330,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 8.5,
-    "rateUSD": 71.45,
-    "duration": "7-14 days",
-    "rateKRW": 84930,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 9,
-    "rateUSD": 74.84,
-    "duration": "7-14 days",
-    "rateKRW": 88950,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 9.5,
-    "rateUSD": 78.23,
-    "duration": "7-14 days",
-    "rateKRW": 92980,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 10,
-    "rateUSD": 81.61,
-    "duration": "7-14 days",
-    "rateKRW": 97000,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 10.5,
-    "rateUSD": 84.64,
-    "duration": "7-14 days",
-    "rateKRW": 100600,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 11,
-    "rateUSD": 88.03,
-    "duration": "7-14 days",
-    "rateKRW": 104630,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 11.5,
-    "rateUSD": 91.41,
-    "duration": "7-14 days",
-    "rateKRW": 108650,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 12,
-    "rateUSD": 94.44,
-    "duration": "7-14 days",
-    "rateKRW": 112250,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 12.5,
-    "rateUSD": 97.83,
-    "duration": "7-14 days",
-    "rateKRW": 116280,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 13,
-    "rateUSD": 101.21,
-    "duration": "7-14 days",
-    "rateKRW": 120300,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 13.5,
-    "rateUSD": 104.24,
-    "duration": "7-14 days",
-    "rateKRW": 123900,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 14,
-    "rateUSD": 107.63,
-    "duration": "7-14 days",
-    "rateKRW": 127930,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 14.5,
-    "rateUSD": 111.01,
-    "duration": "7-14 days",
-    "rateKRW": 131950,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 15,
-    "rateUSD": 114.04,
-    "duration": "7-14 days",
-    "rateKRW": 135550,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 15.5,
-    "rateUSD": 117.43,
-    "duration": "7-14 days",
-    "rateKRW": 139580,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 16,
-    "rateUSD": 120.81,
-    "duration": "7-14 days",
-    "rateKRW": 143600,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 16.5,
-    "rateUSD": 123.84,
-    "duration": "7-14 days",
-    "rateKRW": 147200,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 17,
-    "rateUSD": 127.23,
-    "duration": "7-14 days",
-    "rateKRW": 151230,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 17.5,
-    "rateUSD": 130.61,
-    "duration": "7-14 days",
-    "rateKRW": 155250,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 18,
-    "rateUSD": 133.64,
-    "duration": "7-14 days",
-    "rateKRW": 158850,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 18.5,
-    "rateUSD": 137.03,
-    "duration": "7-14 days",
-    "rateKRW": 162880,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 19,
-    "rateUSD": 140.42,
-    "duration": "7-14 days",
-    "rateKRW": 166900,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 19.5,
-    "rateUSD": 143.81,
-    "duration": "7-14 days",
-    "rateKRW": 170930,
-    "note": ""
-  },
-  {
-    "country": "Cambodia",
-    "carrier": "EMS",
-    "maxWeight": 20,
-    "rateUSD": 146.84,
-    "duration": "7-14 days",
-    "rateKRW": 174530,
     "note": ""
   }
 ]
