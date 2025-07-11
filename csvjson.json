@@ -17968,7 +17968,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 0.5,
     "rateUSD": 25.59,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 30411,
     "note": ""
   },
@@ -17977,7 +17977,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 1,
     "rateUSD": 28.93,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 34381,
     "note": ""
   },
@@ -17986,7 +17986,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 1.5,
     "rateUSD": 32.26,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 38350,
     "note": ""
   },
@@ -17995,7 +17995,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 2,
     "rateUSD": 34.76,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 41320,
     "note": ""
   },
@@ -18004,7 +18004,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 2.5,
     "rateUSD": 37.26,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 44290,
     "note": ""
   },
@@ -18013,7 +18013,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 3,
     "rateUSD": 39.76,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 47259,
     "note": ""
   },
@@ -18022,7 +18022,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 3.5,
     "rateUSD": 42.18,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 50133,
     "note": ""
   },
@@ -18031,7 +18031,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 4,
     "rateUSD": 47.12,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 56007,
     "note": ""
   },
@@ -18040,7 +18040,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 4.5,
     "rateUSD": 49.54,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 58881,
     "note": ""
   },
@@ -18049,7 +18049,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 5,
     "rateUSD": 52.8,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 62755,
     "note": ""
   },
@@ -18058,7 +18058,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 5.5,
     "rateUSD": 55.22,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 65629,
     "note": ""
   },
@@ -18067,7 +18067,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 6,
     "rateUSD": 58.47,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 69503,
     "note": ""
   },
@@ -18076,7 +18076,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 6.5,
     "rateUSD": 60.89,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 72377,
     "note": ""
   },
@@ -18085,7 +18085,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 7,
     "rateUSD": 63.31,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 75251,
     "note": ""
   },
@@ -18094,7 +18094,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 7.5,
     "rateUSD": 65.73,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 78125,
     "note": ""
   },
@@ -18103,7 +18103,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 8,
     "rateUSD": 68.15,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 80999,
     "note": ""
   },
@@ -18112,7 +18112,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 8.5,
     "rateUSD": 70.56,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 83873,
     "note": ""
   },
@@ -18121,7 +18121,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 9,
     "rateUSD": 72.98,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 86747,
     "note": ""
   },
@@ -18130,7 +18130,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 9.5,
     "rateUSD": 75.4,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 89621,
     "note": ""
   },
@@ -18139,7 +18139,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 10,
     "rateUSD": 77.82,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 92495,
     "note": ""
   },
@@ -18148,7 +18148,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 10.5,
     "rateUSD": 80.24,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 95368,
     "note": ""
   },
@@ -18157,7 +18157,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 11,
     "rateUSD": 82.65,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 98242,
     "note": ""
   },
@@ -18166,7 +18166,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 11.5,
     "rateUSD": 85.07,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 101116,
     "note": ""
   },
@@ -18175,7 +18175,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 12,
     "rateUSD": 87.49,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 103990,
     "note": ""
   },
@@ -18184,7 +18184,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 12.5,
     "rateUSD": 89.91,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 106864,
     "note": ""
   },
@@ -18193,7 +18193,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 13,
     "rateUSD": 92.32,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 109738,
     "note": ""
   },
@@ -18202,7 +18202,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 13.5,
     "rateUSD": 94.74,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 112612,
     "note": ""
   },
@@ -18211,7 +18211,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 14,
     "rateUSD": 97.16,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 115486,
     "note": ""
   },
@@ -18220,7 +18220,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 14.5,
     "rateUSD": 99.58,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 118360,
     "note": ""
   },
@@ -18229,7 +18229,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 15,
     "rateUSD": 102,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 121234,
     "note": ""
   },
@@ -18238,7 +18238,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 15.5,
     "rateUSD": 104.41,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 124108,
     "note": ""
   },
@@ -18247,7 +18247,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 16,
     "rateUSD": 106.83,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 126982,
     "note": ""
   },
@@ -18256,7 +18256,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 16.5,
     "rateUSD": 109.25,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 129856,
     "note": ""
   },
@@ -18265,7 +18265,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 17,
     "rateUSD": 111.67,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 132730,
     "note": ""
   },
@@ -18274,7 +18274,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 17.5,
     "rateUSD": 114.09,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 135604,
     "note": ""
   },
@@ -18283,7 +18283,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 18,
     "rateUSD": 116.5,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 138478,
     "note": ""
   },
@@ -18292,7 +18292,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 18.5,
     "rateUSD": 118.92,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 141352,
     "note": ""
   },
@@ -18301,7 +18301,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 19,
     "rateUSD": 121.34,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 144225,
     "note": ""
   },
@@ -18310,7 +18310,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 19.5,
     "rateUSD": 123.76,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 147099,
     "note": ""
   },
@@ -18319,7 +18319,7 @@
     "carrier": "UPS (Express)",
     "maxWeight": 20,
     "rateUSD": 129.96,
-    "duration": "2-5 days",
+    "duration": "2-5 days (GST 9%)",
     "rateKRW": 154476,
     "note": ""
   },
