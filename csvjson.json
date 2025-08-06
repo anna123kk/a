@@ -827,161 +827,161 @@
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 0.1,
-    "rateUSD": 4.91,
+    "rateUSD": 4.93,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "5,860"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 0.2,
-    "rateUSD": 6.24,
+    "rateUSD": 6.28,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "7,460"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 0.3,
-    "rateUSD": 7.58,
+    "rateUSD": 7.63,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "9,070"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 0.4,
-    "rateUSD": 8.92,
+    "rateUSD": 8.99,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "10,680"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 0.5,
-    "rateUSD": 10.27,
+    "rateUSD": 10.36,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "12,310"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 0.6,
-    "rateUSD": 12.18,
+    "rateUSD": 12.28,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "14,600"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 0.7,
-    "rateUSD": 13.25,
+    "rateUSD": 13.37,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "15,890"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 0.8,
-    "rateUSD": 14.32,
+    "rateUSD": 14.45,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "17,180"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 0.9,
-    "rateUSD": 15.4,
+    "rateUSD": 15.55,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "18,480"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 1,
-    "rateUSD": 16.48,
+    "rateUSD": 16.65,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "19,790"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 1.1,
-    "rateUSD": 18.32,
+    "rateUSD": 18.51,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "22,000"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 1.2,
-    "rateUSD": 19.33,
+    "rateUSD": 19.53,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "23,210"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 1.3,
-    "rateUSD": 20.33,
+    "rateUSD": 20.55,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "24,420"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 1.4,
-    "rateUSD": 21.33,
+    "rateUSD": 21.56,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "25,630"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 1.5,
-    "rateUSD": 22.33,
+    "rateUSD": 22.58,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "26,840"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 1.6,
-    "rateUSD": 23.33,
+    "rateUSD": 23.6,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "28,050"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 1.7,
-    "rateUSD": 24.33,
+    "rateUSD": 24.62,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "29,260"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 1.8,
-    "rateUSD": 25.33,
+    "rateUSD": 25.64,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "30,470"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 1.9,
-    "rateUSD": 26.33,
+    "rateUSD": 26.65,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "31,680"
   },
   {
     "country": "Australia",
     "carrier": "K-Packet",
     "maxWeight": 2,
-    "rateUSD": 27.33,
+    "rateUSD": 27.67,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "32,890"
   },
   {
     "country": "Australia",
@@ -2635,161 +2635,161 @@
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 0.1,
-    "rateUSD": 5.95,
+    "rateUSD": 5.86,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "6,970"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 0.2,
-    "rateUSD": 7.87,
+    "rateUSD": 7.7,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "9,150"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 0.3,
-    "rateUSD": 9.79,
+    "rateUSD": 9.54,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "11,340"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 0.4,
-    "rateUSD": 11.71,
+    "rateUSD": 11.37,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "13,520"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 0.5,
-    "rateUSD": 13.63,
+    "rateUSD": 13.21,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "15,700"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 0.6,
-    "rateUSD": 16.27,
+    "rateUSD": 15.77,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "18,740"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 0.7,
-    "rateUSD": 18.08,
+    "rateUSD": 17.49,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "20,790"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 0.8,
-    "rateUSD": 19.88,
+    "rateUSD": 19.21,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "22,830"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 0.9,
-    "rateUSD": 21.69,
+    "rateUSD": 20.93,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "24,880"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 1,
-    "rateUSD": 23.51,
+    "rateUSD": 22.67,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "26,940"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 1.1,
-    "rateUSD": 26.56,
+    "rateUSD": 25.64,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "30,470"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 1.2,
-    "rateUSD": 28.76,
+    "rateUSD": 27.76,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "32,990"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 1.3,
-    "rateUSD": 30.98,
+    "rateUSD": 29.88,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "35,520"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 1.4,
-    "rateUSD": 33.19,
+    "rateUSD": 32.01,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "38,050"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 1.5,
-    "rateUSD": 35.39,
+    "rateUSD": 34.12,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "40,560"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 1.6,
-    "rateUSD": 37.42,
+    "rateUSD": 36.08,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "42,880"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 1.7,
-    "rateUSD": 39.47,
+    "rateUSD": 38.04,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "45,210"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 1.8,
-    "rateUSD": 41.5,
+    "rateUSD": 39.99,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "47,530"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 1.9,
-    "rateUSD": 43.54,
+    "rateUSD": 41.94,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "49,850"
   },
   {
     "country": "Brazil",
     "carrier": "K-Packet",
     "maxWeight": 2,
-    "rateUSD": 45.57,
+    "rateUSD": 43.89,
     "duration": "10-30 days",
-    "rateKRW": ""
+    "rateKRW": "52,170"
   },
   {
     "country": "Brunei Darussalam‎",
@@ -5299,161 +5299,161 @@
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 0.1,
-    "rateUSD": 5.99,
+    "rateUSD": 6.01,
     "duration": "7-14 days",
-    "rateKRW": 8120
+    "rateKRW": "8,140"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 0.2,
-    "rateUSD": 7.91,
+    "rateUSD": 7.94,
     "duration": "7-14 days",
-    "rateKRW": 10400
+    "rateKRW": "10,440"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 0.3,
-    "rateUSD": 9.81,
+    "rateUSD": 9.86,
     "duration": "7-14 days",
-    "rateKRW": 12660
+    "rateKRW": "12,720"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 0.4,
-    "rateUSD": 11.72,
+    "rateUSD": 11.79,
     "duration": "7-14 days",
-    "rateKRW": 14930
+    "rateKRW": "15,010"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 0.5,
-    "rateUSD": 13.64,
+    "rateUSD": 13.72,
     "duration": "7-14 days",
-    "rateKRW": 17210
+    "rateKRW": "17,310"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 0.6,
-    "rateUSD": 16.07,
+    "rateUSD": 16.17,
     "duration": "7-14 days",
-    "rateKRW": 20100
+    "rateKRW": "20,220"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 0.7,
-    "rateUSD": 17.66,
+    "rateUSD": 17.78,
     "duration": "7-14 days",
-    "rateKRW": 21990
+    "rateKRW": "22,130"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 0.8,
-    "rateUSD": 19.25,
+    "rateUSD": 19.38,
     "duration": "7-14 days",
-    "rateKRW": 23880
+    "rateKRW": "24,040"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 0.9,
-    "rateUSD": 20.85,
+    "rateUSD": 21,
     "duration": "7-14 days",
-    "rateKRW": 25780
+    "rateKRW": "25,960"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 1,
-    "rateUSD": 22.45,
+    "rateUSD": 22.62,
     "duration": "7-14 days",
-    "rateKRW": 27690
+    "rateKRW": "27,890"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 1.1,
-    "rateUSD": 25.37,
+    "rateUSD": 25.56,
     "duration": "7-14 days",
-    "rateKRW": 31160
+    "rateKRW": "31,380"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 1.2,
-    "rateUSD": 27.45,
+    "rateUSD": 27.65,
     "duration": "7-14 days",
-    "rateKRW": 33630
+    "rateKRW": "33,870"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 1.3,
-    "rateUSD": 29.53,
+    "rateUSD": 29.75,
     "duration": "7-14 days",
-    "rateKRW": 36100
+    "rateKRW": "36,360"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 1.4,
-    "rateUSD": 31.62,
+    "rateUSD": 31.85,
     "duration": "7-14 days",
-    "rateKRW": 38580
+    "rateKRW": "38,860"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 1.5,
-    "rateUSD": 33.69,
+    "rateUSD": 33.94,
     "duration": "7-14 days",
-    "rateKRW": 41040
+    "rateKRW": "41,340"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 1.6,
-    "rateUSD": 35.09,
+    "rateUSD": 35.36,
     "duration": "7-14 days",
-    "rateKRW": 42710
+    "rateKRW": "43,030"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 1.7,
-    "rateUSD": 36.5,
+    "rateUSD": 36.78,
     "duration": "7-14 days",
-    "rateKRW": 44380
+    "rateKRW": "44,720"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 1.8,
-    "rateUSD": 37.91,
+    "rateUSD": 38.21,
     "duration": "7-14 days",
-    "rateKRW": 46060
+    "rateKRW": "46,420"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 1.9,
-    "rateUSD": 39.31,
+    "rateUSD": 39.63,
     "duration": "7-14 days",
-    "rateKRW": 47730
+    "rateKRW": "48,110"
   },
   {
     "country": "Canada",
     "carrier": "K-Packet",
     "maxWeight": 2,
-    "rateUSD": 40.72,
+    "rateUSD": 41.06,
     "duration": "7-14 days",
-    "rateKRW": 49400
+    "rateKRW": "49,800"
   },
   {
     "country": "Canada",
@@ -6283,161 +6283,161 @@
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 0.1,
-    "rateUSD": 4.81,
+    "rateUSD": 4.8,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "5,710"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 0.2,
-    "rateUSD": 5.89,
+    "rateUSD": 5.87,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "6,980"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 0.3,
-    "rateUSD": 6.95,
+    "rateUSD": 6.92,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "8,230"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 0.4,
-    "rateUSD": 8.02,
+    "rateUSD": 7.98,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "9,490"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 0.5,
-    "rateUSD": 9.1,
+    "rateUSD": 9.06,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "10,770"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 0.6,
-    "rateUSD": 10.8,
+    "rateUSD": 10.75,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "12,780"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 0.7,
-    "rateUSD": 11.66,
+    "rateUSD": 11.6,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "13,790"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 0.8,
-    "rateUSD": 12.53,
+    "rateUSD": 12.46,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "14,810"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 0.9,
-    "rateUSD": 13.38,
+    "rateUSD": 13.3,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "15,810"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 1,
-    "rateUSD": 14.24,
+    "rateUSD": 14.16,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "16,830"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 1.1,
-    "rateUSD": 15.85,
+    "rateUSD": 15.76,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "18,730"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 1.2,
-    "rateUSD": 16.61,
+    "rateUSD": 16.51,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "19,620"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 1.3,
-    "rateUSD": 17.37,
+    "rateUSD": 17.26,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "20,520"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 1.4,
-    "rateUSD": 18.13,
+    "rateUSD": 18.01,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "21,410"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 1.5,
-    "rateUSD": 18.93,
+    "rateUSD": 18.8,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "22,350"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 1.6,
-    "rateUSD": 19.39,
+    "rateUSD": 19.26,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "22,890"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 1.7,
-    "rateUSD": 19.87,
+    "rateUSD": 19.73,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "23,450"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 1.8,
-    "rateUSD": 20.34,
+    "rateUSD": 20.19,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "24,000"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 1.9,
-    "rateUSD": 20.81,
+    "rateUSD": 20.65,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "24,540"
   },
   {
     "country": "China",
     "carrier": "K-Packet",
     "maxWeight": 2,
-    "rateUSD": 21.3,
+    "rateUSD": 21.13,
     "duration": "7-14 days",
-    "rateKRW": ""
+    "rateKRW": "25,120"
   },
   {
     "country": "China",
@@ -28555,161 +28555,161 @@
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 0.1,
-    "rateUSD": 5.63,
+    "rateUSD": 5.67,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "6,740"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 0.2,
-    "rateUSD": 7.39,
+    "rateUSD": 7.47,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "8,880"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 0.3,
-    "rateUSD": 9.14,
+    "rateUSD": 9.26,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "11,010"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 0.4,
-    "rateUSD": 10.9,
+    "rateUSD": 11.06,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "13,150"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 0.5,
-    "rateUSD": 12.68,
+    "rateUSD": 12.89,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "15,320"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 0.6,
-    "rateUSD": 14.98,
+    "rateUSD": 15.24,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "18,110"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 0.7,
-    "rateUSD": 16.45,
+    "rateUSD": 16.74,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "19,900"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 0.8,
-    "rateUSD": 17.9,
+    "rateUSD": 18.24,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "21,680"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 0.9,
-    "rateUSD": 19.37,
+    "rateUSD": 19.75,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "23,470"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 1,
-    "rateUSD": 20.86,
+    "rateUSD": 21.28,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "25,290"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 1.1,
-    "rateUSD": 23.4,
+    "rateUSD": 23.86,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "28,360"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 1.2,
-    "rateUSD": 25.1,
+    "rateUSD": 25.6,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "30,430"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 1.3,
-    "rateUSD": 26.8,
+    "rateUSD": 27.34,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "32,500"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 1.4,
-    "rateUSD": 28.5,
+    "rateUSD": 29.08,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "34,570"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 1.5,
-    "rateUSD": 30.19,
+    "rateUSD": 30.83,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "36,640"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 1.6,
-    "rateUSD": 31.89,
+    "rateUSD": 32.57,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "38,710"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 1.7,
-    "rateUSD": 33.59,
+    "rateUSD": 34.31,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "40,780"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 1.8,
-    "rateUSD": 35.29,
+    "rateUSD": 36.05,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "42,850"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 1.9,
-    "rateUSD": 36.99,
+    "rateUSD": 37.79,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "44,920"
   },
   {
     "country": "United Kingdom",
     "carrier": "K-Packet",
     "maxWeight": 2,
-    "rateUSD": 38.69,
+    "rateUSD": 39.53,
     "duration": "7-20 days",
-    "rateKRW": ""
+    "rateKRW": "46,990"
   },
   {
     "country": "United Kingdom",
@@ -29483,161 +29483,161 @@
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 0.1,
-    "rateUSD": 8.06,
+    "rateUSD": 8.15,
     "duration": "7-14 days",
-    "rateKRW": 9580
+    "rateKRW": "9,690"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 0.2,
-    "rateUSD": 9.22,
+    "rateUSD": 9.41,
     "duration": "7-14 days",
-    "rateKRW": 10960
+    "rateKRW": "11,180"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 0.3,
-    "rateUSD": 11.38,
+    "rateUSD": 11.66,
     "duration": "7-14 days",
-    "rateKRW": 13530
+    "rateKRW": "13,860"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 0.4,
-    "rateUSD": 13.57,
+    "rateUSD": 13.94,
     "duration": "7-14 days",
-    "rateKRW": 16130
+    "rateKRW": "16,570"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 0.5,
-    "rateUSD": 15.76,
+    "rateUSD": 16.22,
     "duration": "7-14 days",
-    "rateKRW": 18730
+    "rateKRW": "19,280"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 0.6,
-    "rateUSD": 18.38,
+    "rateUSD": 18.94,
     "duration": "7-14 days",
-    "rateKRW": 21850
+    "rateKRW": "22,510"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 0.7,
-    "rateUSD": 20.16,
+    "rateUSD": 20.81,
     "duration": "7-14 days",
-    "rateKRW": 23960
+    "rateKRW": "24,730"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 0.8,
-    "rateUSD": 21.94,
+    "rateUSD": 22.68,
     "duration": "7-14 days",
-    "rateKRW": 26080
+    "rateKRW": "26,960"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 0.9,
-    "rateUSD": 23.72,
+    "rateUSD": 24.55,
     "duration": "7-14 days",
-    "rateKRW": 28190
+    "rateKRW": "29,180"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 1,
-    "rateUSD": 25.52,
+    "rateUSD": 26.44,
     "duration": "7-14 days",
-    "rateKRW": 30330
+    "rateKRW": "31,430"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 1.1,
-    "rateUSD": 28.75,
+    "rateUSD": 29.77,
     "duration": "7-14 days",
-    "rateKRW": 34170
+    "rateKRW": "35,380"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 1.2,
-    "rateUSD": 31.14,
+    "rateUSD": 32.25,
     "duration": "7-14 days",
-    "rateKRW": 37010
+    "rateKRW": "38,330"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 1.3,
-    "rateUSD": 33.53,
+    "rateUSD": 34.73,
     "duration": "7-14 days",
-    "rateKRW": 39850
+    "rateKRW": "41,280"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 1.4,
-    "rateUSD": 35.9,
+    "rateUSD": 37.19,
     "duration": "7-14 days",
-    "rateKRW": 42670
+    "rateKRW": "44,210"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 1.5,
-    "rateUSD": 38.29,
+    "rateUSD": 39.68,
     "duration": "7-14 days",
-    "rateKRW": 45510
+    "rateKRW": "47,160"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 1.6,
-    "rateUSD": 40.48,
+    "rateUSD": 41.96,
     "duration": "7-14 days",
-    "rateKRW": 48110
+    "rateKRW": "49,870"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 1.7,
-    "rateUSD": 42.64,
+    "rateUSD": 44.21,
     "duration": "7-14 days",
-    "rateKRW": 50680
+    "rateKRW": "52,550"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 1.8,
-    "rateUSD": 44.81,
+    "rateUSD": 46.47,
     "duration": "7-14 days",
-    "rateKRW": 53260
+    "rateKRW": "55,240"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 1.9,
-    "rateUSD": 46.98,
+    "rateUSD": 48.74,
     "duration": "7-14 days",
-    "rateKRW": 55840
+    "rateKRW": "57,930"
   },
   {
     "country": "United States",
     "carrier": "K-Packet",
     "maxWeight": 2,
-    "rateUSD": 49.21,
+    "rateUSD": 51.06,
     "duration": "7-14 days",
-    "rateKRW": 58490
+    "rateKRW": "60,690"
   },
   {
     "country": "United States",
