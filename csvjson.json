@@ -8573,7 +8573,7 @@
     "maxWeight": 0.1,
     "rateUSD": 5.73,
     "duration": "7-20 days",
-    "rateKRW": "6,810"
+    "rateKRW": 6810
   },
   {
     "country": "France",
@@ -8581,7 +8581,7 @@
     "maxWeight": 0.2,
     "rateUSD": 7.39,
     "duration": "7-20 days",
-    "rateKRW": "8,780"
+    "rateKRW": 8780
   },
   {
     "country": "France",
@@ -8589,7 +8589,7 @@
     "maxWeight": 0.3,
     "rateUSD": 9.04,
     "duration": "7-20 days",
-    "rateKRW": "10,750"
+    "rateKRW": 10750
   },
   {
     "country": "France",
@@ -8597,7 +8597,7 @@
     "maxWeight": 0.4,
     "rateUSD": 10.71,
     "duration": "7-20 days",
-    "rateKRW": "12,730"
+    "rateKRW": 12730
   },
   {
     "country": "France",
@@ -8605,7 +8605,7 @@
     "maxWeight": 0.5,
     "rateUSD": 12.38,
     "duration": "7-20 days",
-    "rateKRW": "14,720"
+    "rateKRW": 14720
   },
   {
     "country": "France",
@@ -8613,7 +8613,7 @@
     "maxWeight": 0.6,
     "rateUSD": 14.57,
     "duration": "7-20 days",
-    "rateKRW": "17,320"
+    "rateKRW": 17320
   },
   {
     "country": "France",
@@ -8621,7 +8621,7 @@
     "maxWeight": 0.7,
     "rateUSD": 15.92,
     "duration": "7-20 days",
-    "rateKRW": "18,920"
+    "rateKRW": 18920
   },
   {
     "country": "France",
@@ -8629,7 +8629,7 @@
     "maxWeight": 0.8,
     "rateUSD": 17.26,
     "duration": "7-20 days",
-    "rateKRW": "20,520"
+    "rateKRW": 20520
   },
   {
     "country": "France",
@@ -8637,7 +8637,7 @@
     "maxWeight": 0.9,
     "rateUSD": 18.61,
     "duration": "7-20 days",
-    "rateKRW": "22,120"
+    "rateKRW": 22120
   },
   {
     "country": "France",
@@ -8645,7 +8645,7 @@
     "maxWeight": 1,
     "rateUSD": 19.98,
     "duration": "7-20 days",
-    "rateKRW": "23,750"
+    "rateKRW": 23750
   },
   {
     "country": "France",
@@ -8653,7 +8653,7 @@
     "maxWeight": 1.1,
     "rateUSD": 21.88,
     "duration": "7-20 days",
-    "rateKRW": "26,010"
+    "rateKRW": 26010
   },
   {
     "country": "France",
@@ -8661,7 +8661,7 @@
     "maxWeight": 1.2,
     "rateUSD": 22.94,
     "duration": "7-20 days",
-    "rateKRW": "27,270"
+    "rateKRW": 27270
   },
   {
     "country": "France",
@@ -8669,7 +8669,7 @@
     "maxWeight": 1.3,
     "rateUSD": 24,
     "duration": "7-20 days",
-    "rateKRW": "28,530"
+    "rateKRW": 28530
   },
   {
     "country": "France",
@@ -8677,7 +8677,7 @@
     "maxWeight": 1.4,
     "rateUSD": 25.06,
     "duration": "7-20 days",
-    "rateKRW": "29,790"
+    "rateKRW": 29790
   },
   {
     "country": "France",
@@ -8685,7 +8685,7 @@
     "maxWeight": 1.5,
     "rateUSD": 26.12,
     "duration": "7-20 days",
-    "rateKRW": "31,050"
+    "rateKRW": 31050
   },
   {
     "country": "France",
@@ -8693,7 +8693,7 @@
     "maxWeight": 1.6,
     "rateUSD": 27.18,
     "duration": "7-20 days",
-    "rateKRW": "32,310"
+    "rateKRW": 32310
   },
   {
     "country": "France",
@@ -8701,7 +8701,7 @@
     "maxWeight": 1.7,
     "rateUSD": 28.24,
     "duration": "7-20 days",
-    "rateKRW": "33,570"
+    "rateKRW": 33570
   },
   {
     "country": "France",
@@ -8709,7 +8709,7 @@
     "maxWeight": 1.8,
     "rateUSD": 29.3,
     "duration": "7-20 days",
-    "rateKRW": "34,830"
+    "rateKRW": 34830
   },
   {
     "country": "France",
@@ -8717,7 +8717,7 @@
     "maxWeight": 1.9,
     "rateUSD": 30.36,
     "duration": "7-20 days",
-    "rateKRW": "36,090"
+    "rateKRW": 36090
   },
   {
     "country": "France",
@@ -8725,7 +8725,7 @@
     "maxWeight": 2,
     "rateUSD": 31.42,
     "duration": "7-20 days",
-    "rateKRW": "37,350"
+    "rateKRW": 37350
   },
   {
     "country": "France",
@@ -8733,7 +8733,7 @@
     "maxWeight": 0.5,
     "rateUSD": 23.89,
     "duration": "7-14 days",
-    "rateKRW": "28,400"
+    "rateKRW": 28400
   },
   {
     "country": "France",
@@ -8741,7 +8741,7 @@
     "maxWeight": 0.75,
     "rateUSD": 27.01,
     "duration": "7-14 days",
-    "rateKRW": "32,100"
+    "rateKRW": 32100
   },
   {
     "country": "France",
@@ -8749,7 +8749,7 @@
     "maxWeight": 1,
     "rateUSD": 29.7,
     "duration": "7-14 days",
-    "rateKRW": "35,300"
+    "rateKRW": 35300
   },
   {
     "country": "France",
@@ -8757,7 +8757,7 @@
     "maxWeight": 1.25,
     "rateUSD": 31.97,
     "duration": "7-14 days",
-    "rateKRW": "38,000"
+    "rateKRW": 38000
   },
   {
     "country": "France",
@@ -8765,7 +8765,7 @@
     "maxWeight": 1.5,
     "rateUSD": 33.82,
     "duration": "7-14 days",
-    "rateKRW": "40,200"
+    "rateKRW": 40200
   },
   {
     "country": "France",
@@ -8773,7 +8773,7 @@
     "maxWeight": 1.75,
     "rateUSD": 36.09,
     "duration": "7-14 days",
-    "rateKRW": "42,900"
+    "rateKRW": 42900
   },
   {
     "country": "France",
@@ -8781,7 +8781,7 @@
     "maxWeight": 2,
     "rateUSD": 37.94,
     "duration": "7-14 days",
-    "rateKRW": "45,100"
+    "rateKRW": 45100
   },
   {
     "country": "France",
@@ -8789,7 +8789,7 @@
     "maxWeight": 2.5,
     "rateUSD": 44.59,
     "duration": "7-14 days",
-    "rateKRW": "53,000"
+    "rateKRW": 53000
   },
   {
     "country": "France",
@@ -8797,7 +8797,7 @@
     "maxWeight": 3,
     "rateUSD": 48.29,
     "duration": "7-14 days",
-    "rateKRW": "57,400"
+    "rateKRW": 57400
   },
   {
     "country": "France",
@@ -8805,7 +8805,7 @@
     "maxWeight": 3.5,
     "rateUSD": 53.26,
     "duration": "7-14 days",
-    "rateKRW": "63,300"
+    "rateKRW": 63300
   },
   {
     "country": "France",
@@ -8813,7 +8813,7 @@
     "maxWeight": 4,
     "rateUSD": 57.38,
     "duration": "7-14 days",
-    "rateKRW": "68,200"
+    "rateKRW": 68200
   },
   {
     "country": "France",
@@ -8821,7 +8821,7 @@
     "maxWeight": 4.5,
     "rateUSD": 61.92,
     "duration": "7-14 days",
-    "rateKRW": "73,600"
+    "rateKRW": 73600
   },
   {
     "country": "France",
@@ -8829,7 +8829,7 @@
     "maxWeight": 5,
     "rateUSD": 66.04,
     "duration": "7-14 days",
-    "rateKRW": "78,500"
+    "rateKRW": 78500
   },
   {
     "country": "France",
@@ -8837,7 +8837,7 @@
     "maxWeight": 5.5,
     "rateUSD": 69.75,
     "duration": "7-14 days",
-    "rateKRW": "82,900"
+    "rateKRW": 82900
   },
   {
     "country": "France",
@@ -8845,7 +8845,7 @@
     "maxWeight": 6,
     "rateUSD": 75.55,
     "duration": "7-14 days",
-    "rateKRW": "89,800"
+    "rateKRW": 89800
   },
   {
     "country": "France",
@@ -8853,7 +8853,7 @@
     "maxWeight": 6.5,
     "rateUSD": 79.25,
     "duration": "7-14 days",
-    "rateKRW": "94,200"
+    "rateKRW": 94200
   },
   {
     "country": "France",
@@ -8861,7 +8861,7 @@
     "maxWeight": 7,
     "rateUSD": 84.22,
     "duration": "7-14 days",
-    "rateKRW": "100,100"
+    "rateKRW": 100100
   },
   {
     "country": "France",
@@ -8869,7 +8869,7 @@
     "maxWeight": 7.5,
     "rateUSD": 89.18,
     "duration": "7-14 days",
-    "rateKRW": "106,000"
+    "rateKRW": 106000
   },
   {
     "country": "France",
@@ -8877,7 +8877,7 @@
     "maxWeight": 8,
     "rateUSD": 94.14,
     "duration": "7-14 days",
-    "rateKRW": "111,900"
+    "rateKRW": 111900
   },
   {
     "country": "France",
@@ -8885,7 +8885,7 @@
     "maxWeight": 8.5,
     "rateUSD": 99.11,
     "duration": "7-14 days",
-    "rateKRW": "117,800"
+    "rateKRW": 117800
   },
   {
     "country": "France",
@@ -8893,7 +8893,7 @@
     "maxWeight": 9,
     "rateUSD": 104.07,
     "duration": "7-14 days",
-    "rateKRW": "123,700"
+    "rateKRW": 123700
   },
   {
     "country": "France",
@@ -8901,7 +8901,7 @@
     "maxWeight": 9.5,
     "rateUSD": 109.04,
     "duration": "7-14 days",
-    "rateKRW": "129,600"
+    "rateKRW": 129600
   },
   {
     "country": "France",
@@ -8909,7 +8909,7 @@
     "maxWeight": 10,
     "rateUSD": 114,
     "duration": "7-14 days",
-    "rateKRW": "135,500"
+    "rateKRW": 135500
   },
   {
     "country": "France",
@@ -8917,7 +8917,7 @@
     "maxWeight": 10.5,
     "rateUSD": 118.54,
     "duration": "7-14 days",
-    "rateKRW": "140,900"
+    "rateKRW": 140900
   },
   {
     "country": "France",
@@ -8925,7 +8925,7 @@
     "maxWeight": 11,
     "rateUSD": 123.51,
     "duration": "7-14 days",
-    "rateKRW": "146,800"
+    "rateKRW": 146800
   },
   {
     "country": "France",
@@ -8933,7 +8933,7 @@
     "maxWeight": 11.5,
     "rateUSD": 128.47,
     "duration": "7-14 days",
-    "rateKRW": "152,700"
+    "rateKRW": 152700
   },
   {
     "country": "France",
@@ -8941,7 +8941,7 @@
     "maxWeight": 12,
     "rateUSD": 133.43,
     "duration": "7-14 days",
-    "rateKRW": "158,600"
+    "rateKRW": 158600
   },
   {
     "country": "France",
@@ -8949,7 +8949,7 @@
     "maxWeight": 12.5,
     "rateUSD": 138.4,
     "duration": "7-14 days",
-    "rateKRW": "164,500"
+    "rateKRW": 164500
   },
   {
     "country": "France",
@@ -8957,7 +8957,7 @@
     "maxWeight": 13,
     "rateUSD": 143.36,
     "duration": "7-14 days",
-    "rateKRW": "170,400"
+    "rateKRW": 170400
   },
   {
     "country": "France",
@@ -8965,7 +8965,7 @@
     "maxWeight": 13.5,
     "rateUSD": 148.32,
     "duration": "7-14 days",
-    "rateKRW": "176,300"
+    "rateKRW": 176300
   },
   {
     "country": "France",
@@ -8973,7 +8973,7 @@
     "maxWeight": 14,
     "rateUSD": 153.29,
     "duration": "7-14 days",
-    "rateKRW": "182,200"
+    "rateKRW": 182200
   },
   {
     "country": "France",
@@ -8981,7 +8981,7 @@
     "maxWeight": 14.5,
     "rateUSD": 158.25,
     "duration": "7-14 days",
-    "rateKRW": "188,100"
+    "rateKRW": 188100
   },
   {
     "country": "France",
@@ -8989,7 +8989,7 @@
     "maxWeight": 15,
     "rateUSD": 162.8,
     "duration": "7-14 days",
-    "rateKRW": "193,500"
+    "rateKRW": 193500
   },
   {
     "country": "France",
@@ -8997,7 +8997,7 @@
     "maxWeight": 15.5,
     "rateUSD": 167.76,
     "duration": "7-14 days",
-    "rateKRW": "199,400"
+    "rateKRW": 199400
   },
   {
     "country": "France",
@@ -9005,7 +9005,7 @@
     "maxWeight": 16,
     "rateUSD": 172.72,
     "duration": "7-14 days",
-    "rateKRW": "205,300"
+    "rateKRW": 205300
   },
   {
     "country": "France",
@@ -9013,7 +9013,7 @@
     "maxWeight": 16.5,
     "rateUSD": 177.69,
     "duration": "7-14 days",
-    "rateKRW": "211,200"
+    "rateKRW": 211200
   },
   {
     "country": "France",
@@ -9021,7 +9021,7 @@
     "maxWeight": 17,
     "rateUSD": 182.65,
     "duration": "7-14 days",
-    "rateKRW": "217,100"
+    "rateKRW": 217100
   },
   {
     "country": "France",
@@ -9029,7 +9029,7 @@
     "maxWeight": 17.5,
     "rateUSD": 187.61,
     "duration": "7-14 days",
-    "rateKRW": "223,000"
+    "rateKRW": 223000
   },
   {
     "country": "France",
@@ -9037,7 +9037,7 @@
     "maxWeight": 18,
     "rateUSD": 192.58,
     "duration": "7-14 days",
-    "rateKRW": "228,900"
+    "rateKRW": 228900
   },
   {
     "country": "France",
@@ -9045,7 +9045,7 @@
     "maxWeight": 18.5,
     "rateUSD": 197.54,
     "duration": "7-14 days",
-    "rateKRW": "234,800"
+    "rateKRW": 234800
   },
   {
     "country": "France",
@@ -9053,7 +9053,7 @@
     "maxWeight": 19,
     "rateUSD": 202.51,
     "duration": "7-14 days",
-    "rateKRW": "240,700"
+    "rateKRW": 240700
   },
   {
     "country": "France",
@@ -9061,7 +9061,7 @@
     "maxWeight": 19.5,
     "rateUSD": 207.05,
     "duration": "7-14 days",
-    "rateKRW": "246,100"
+    "rateKRW": 246100
   },
   {
     "country": "France",
@@ -9069,7 +9069,7 @@
     "maxWeight": 20,
     "rateUSD": 212.01,
     "duration": "7-14 days",
-    "rateKRW": "252,000"
+    "rateKRW": 252000
   },
   {
     "country": "France",
@@ -9077,7 +9077,7 @@
     "maxWeight": 20.5,
     "rateUSD": 216.98,
     "duration": "7-14 days",
-    "rateKRW": "257,900"
+    "rateKRW": 257900
   },
   {
     "country": "France",
@@ -9085,7 +9085,7 @@
     "maxWeight": 21,
     "rateUSD": 221.94,
     "duration": "7-14 days",
-    "rateKRW": "263,800"
+    "rateKRW": 263800
   },
   {
     "country": "France",
@@ -9093,7 +9093,7 @@
     "maxWeight": 21.5,
     "rateUSD": 226.9,
     "duration": "7-14 days",
-    "rateKRW": "269,700"
+    "rateKRW": 269700
   },
   {
     "country": "France",
@@ -9101,7 +9101,7 @@
     "maxWeight": 22,
     "rateUSD": 231.87,
     "duration": "7-14 days",
-    "rateKRW": "275,600"
+    "rateKRW": 275600
   },
   {
     "country": "France",
@@ -9109,7 +9109,7 @@
     "maxWeight": 22.5,
     "rateUSD": 236.83,
     "duration": "7-14 days",
-    "rateKRW": "281,500"
+    "rateKRW": 281500
   },
   {
     "country": "France",
@@ -9117,7 +9117,7 @@
     "maxWeight": 23,
     "rateUSD": 241.8,
     "duration": "7-14 days",
-    "rateKRW": "287,400"
+    "rateKRW": 287400
   },
   {
     "country": "France",
@@ -9125,7 +9125,7 @@
     "maxWeight": 23.5,
     "rateUSD": 246.76,
     "duration": "7-14 days",
-    "rateKRW": "293,300"
+    "rateKRW": 293300
   },
   {
     "country": "France",
@@ -9133,7 +9133,7 @@
     "maxWeight": 24,
     "rateUSD": 251.3,
     "duration": "7-14 days",
-    "rateKRW": "298,700"
+    "rateKRW": 298700
   },
   {
     "country": "France",
@@ -9141,7 +9141,7 @@
     "maxWeight": 24.5,
     "rateUSD": 256.27,
     "duration": "7-14 days",
-    "rateKRW": "304,600"
+    "rateKRW": 304600
   },
   {
     "country": "France",
@@ -9149,7 +9149,7 @@
     "maxWeight": 25,
     "rateUSD": 261.23,
     "duration": "7-14 days",
-    "rateKRW": "310,500"
+    "rateKRW": 310500
   },
   {
     "country": "France",
@@ -9157,7 +9157,7 @@
     "maxWeight": 25.5,
     "rateUSD": 266.19,
     "duration": "7-14 days",
-    "rateKRW": "316,400"
+    "rateKRW": 316400
   },
   {
     "country": "France",
@@ -9165,7 +9165,7 @@
     "maxWeight": 26,
     "rateUSD": 271.16,
     "duration": "7-14 days",
-    "rateKRW": "322,300"
+    "rateKRW": 322300
   },
   {
     "country": "France",
@@ -9173,7 +9173,7 @@
     "maxWeight": 26.5,
     "rateUSD": 276.12,
     "duration": "7-14 days",
-    "rateKRW": "328,200"
+    "rateKRW": 328200
   },
   {
     "country": "France",
@@ -9181,7 +9181,7 @@
     "maxWeight": 27,
     "rateUSD": 281.09,
     "duration": "7-14 days",
-    "rateKRW": "334,100"
+    "rateKRW": 334100
   },
   {
     "country": "France",
@@ -9189,7 +9189,7 @@
     "maxWeight": 27.5,
     "rateUSD": 286.05,
     "duration": "7-14 days",
-    "rateKRW": "340,000"
+    "rateKRW": 340000
   },
   {
     "country": "France",
@@ -9197,7 +9197,7 @@
     "maxWeight": 28,
     "rateUSD": 291.01,
     "duration": "7-14 days",
-    "rateKRW": "345,900"
+    "rateKRW": 345900
   },
   {
     "country": "France",
@@ -9205,7 +9205,7 @@
     "maxWeight": 28.5,
     "rateUSD": 295.56,
     "duration": "7-14 days",
-    "rateKRW": "351,300"
+    "rateKRW": 351300
   },
   {
     "country": "France",
@@ -9213,7 +9213,7 @@
     "maxWeight": 29,
     "rateUSD": 300.52,
     "duration": "7-14 days",
-    "rateKRW": "357,200"
+    "rateKRW": 357200
   },
   {
     "country": "France",
@@ -9221,7 +9221,7 @@
     "maxWeight": 29.5,
     "rateUSD": 305.48,
     "duration": "7-14 days",
-    "rateKRW": "363,100"
+    "rateKRW": 363100
   },
   {
     "country": "France",
@@ -9229,7 +9229,7 @@
     "maxWeight": 30,
     "rateUSD": 310.45,
     "duration": "7-14 days",
-    "rateKRW": "369,000"
+    "rateKRW": 369000
   },
   {
     "country": "France",
