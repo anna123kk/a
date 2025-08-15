@@ -829,7 +829,7 @@
     "maxWeight": 0.1,
     "rateUSD": 4.93,
     "duration": "7-20 days",
-    "rateKRW": "5,860"
+    "rateKRW": 5860
   },
   {
     "country": "Australia",
@@ -837,7 +837,7 @@
     "maxWeight": 0.2,
     "rateUSD": 6.28,
     "duration": "7-20 days",
-    "rateKRW": "7,460"
+    "rateKRW": 7460
   },
   {
     "country": "Australia",
@@ -845,7 +845,7 @@
     "maxWeight": 0.3,
     "rateUSD": 7.63,
     "duration": "7-20 days",
-    "rateKRW": "9,070"
+    "rateKRW": 9070
   },
   {
     "country": "Australia",
@@ -853,7 +853,7 @@
     "maxWeight": 0.4,
     "rateUSD": 8.99,
     "duration": "7-20 days",
-    "rateKRW": "10,680"
+    "rateKRW": 10680
   },
   {
     "country": "Australia",
@@ -861,7 +861,7 @@
     "maxWeight": 0.5,
     "rateUSD": 10.36,
     "duration": "7-20 days",
-    "rateKRW": "12,310"
+    "rateKRW": 12310
   },
   {
     "country": "Australia",
@@ -869,7 +869,7 @@
     "maxWeight": 0.6,
     "rateUSD": 12.28,
     "duration": "7-20 days",
-    "rateKRW": "14,600"
+    "rateKRW": 14600
   },
   {
     "country": "Australia",
@@ -877,7 +877,7 @@
     "maxWeight": 0.7,
     "rateUSD": 13.37,
     "duration": "7-20 days",
-    "rateKRW": "15,890"
+    "rateKRW": 15890
   },
   {
     "country": "Australia",
@@ -885,7 +885,7 @@
     "maxWeight": 0.8,
     "rateUSD": 14.45,
     "duration": "7-20 days",
-    "rateKRW": "17,180"
+    "rateKRW": 17180
   },
   {
     "country": "Australia",
@@ -893,7 +893,7 @@
     "maxWeight": 0.9,
     "rateUSD": 15.55,
     "duration": "7-20 days",
-    "rateKRW": "18,480"
+    "rateKRW": 18480
   },
   {
     "country": "Australia",
@@ -901,7 +901,7 @@
     "maxWeight": 1,
     "rateUSD": 16.65,
     "duration": "7-20 days",
-    "rateKRW": "19,790"
+    "rateKRW": 19790
   },
   {
     "country": "Australia",
@@ -909,7 +909,7 @@
     "maxWeight": 1.1,
     "rateUSD": 18.51,
     "duration": "7-20 days",
-    "rateKRW": "22,000"
+    "rateKRW": 22000
   },
   {
     "country": "Australia",
@@ -917,7 +917,7 @@
     "maxWeight": 1.2,
     "rateUSD": 19.53,
     "duration": "7-20 days",
-    "rateKRW": "23,210"
+    "rateKRW": 23210
   },
   {
     "country": "Australia",
@@ -925,7 +925,7 @@
     "maxWeight": 1.3,
     "rateUSD": 20.55,
     "duration": "7-20 days",
-    "rateKRW": "24,420"
+    "rateKRW": 24420
   },
   {
     "country": "Australia",
@@ -933,7 +933,7 @@
     "maxWeight": 1.4,
     "rateUSD": 21.56,
     "duration": "7-20 days",
-    "rateKRW": "25,630"
+    "rateKRW": 25630
   },
   {
     "country": "Australia",
@@ -941,7 +941,7 @@
     "maxWeight": 1.5,
     "rateUSD": 22.58,
     "duration": "7-20 days",
-    "rateKRW": "26,840"
+    "rateKRW": 26840
   },
   {
     "country": "Australia",
@@ -949,7 +949,7 @@
     "maxWeight": 1.6,
     "rateUSD": 23.6,
     "duration": "7-20 days",
-    "rateKRW": "28,050"
+    "rateKRW": 28050
   },
   {
     "country": "Australia",
@@ -957,7 +957,7 @@
     "maxWeight": 1.7,
     "rateUSD": 24.62,
     "duration": "7-20 days",
-    "rateKRW": "29,260"
+    "rateKRW": 29260
   },
   {
     "country": "Australia",
@@ -965,7 +965,7 @@
     "maxWeight": 1.8,
     "rateUSD": 25.64,
     "duration": "7-20 days",
-    "rateKRW": "30,470"
+    "rateKRW": 30470
   },
   {
     "country": "Australia",
@@ -973,7 +973,7 @@
     "maxWeight": 1.9,
     "rateUSD": 26.65,
     "duration": "7-20 days",
-    "rateKRW": "31,680"
+    "rateKRW": 31680
   },
   {
     "country": "Australia",
@@ -981,7 +981,7 @@
     "maxWeight": 2,
     "rateUSD": 27.67,
     "duration": "7-20 days",
-    "rateKRW": "32,890"
+    "rateKRW": 32890
   },
   {
     "country": "Australia",
@@ -2637,7 +2637,7 @@
     "maxWeight": 0.1,
     "rateUSD": 5.86,
     "duration": "10-30 days",
-    "rateKRW": "6,970"
+    "rateKRW": 6970
   },
   {
     "country": "Brazil",
@@ -2645,7 +2645,7 @@
     "maxWeight": 0.2,
     "rateUSD": 7.7,
     "duration": "10-30 days",
-    "rateKRW": "9,150"
+    "rateKRW": 9150
   },
   {
     "country": "Brazil",
@@ -2653,7 +2653,7 @@
     "maxWeight": 0.3,
     "rateUSD": 9.54,
     "duration": "10-30 days",
-    "rateKRW": "11,340"
+    "rateKRW": 11340
   },
   {
     "country": "Brazil",
@@ -2661,7 +2661,7 @@
     "maxWeight": 0.4,
     "rateUSD": 11.37,
     "duration": "10-30 days",
-    "rateKRW": "13,520"
+    "rateKRW": 13520
   },
   {
     "country": "Brazil",
@@ -2669,7 +2669,7 @@
     "maxWeight": 0.5,
     "rateUSD": 13.21,
     "duration": "10-30 days",
-    "rateKRW": "15,700"
+    "rateKRW": 15700
   },
   {
     "country": "Brazil",
@@ -2677,7 +2677,7 @@
     "maxWeight": 0.6,
     "rateUSD": 15.77,
     "duration": "10-30 days",
-    "rateKRW": "18,740"
+    "rateKRW": 18740
   },
   {
     "country": "Brazil",
@@ -2685,7 +2685,7 @@
     "maxWeight": 0.7,
     "rateUSD": 17.49,
     "duration": "10-30 days",
-    "rateKRW": "20,790"
+    "rateKRW": 20790
   },
   {
     "country": "Brazil",
@@ -2693,7 +2693,7 @@
     "maxWeight": 0.8,
     "rateUSD": 19.21,
     "duration": "10-30 days",
-    "rateKRW": "22,830"
+    "rateKRW": 22830
   },
   {
     "country": "Brazil",
@@ -2701,7 +2701,7 @@
     "maxWeight": 0.9,
     "rateUSD": 20.93,
     "duration": "10-30 days",
-    "rateKRW": "24,880"
+    "rateKRW": 24880
   },
   {
     "country": "Brazil",
@@ -2709,7 +2709,7 @@
     "maxWeight": 1,
     "rateUSD": 22.67,
     "duration": "10-30 days",
-    "rateKRW": "26,940"
+    "rateKRW": 26940
   },
   {
     "country": "Brazil",
@@ -2717,7 +2717,7 @@
     "maxWeight": 1.1,
     "rateUSD": 25.64,
     "duration": "10-30 days",
-    "rateKRW": "30,470"
+    "rateKRW": 30470
   },
   {
     "country": "Brazil",
@@ -2725,7 +2725,7 @@
     "maxWeight": 1.2,
     "rateUSD": 27.76,
     "duration": "10-30 days",
-    "rateKRW": "32,990"
+    "rateKRW": 32990
   },
   {
     "country": "Brazil",
@@ -2733,7 +2733,7 @@
     "maxWeight": 1.3,
     "rateUSD": 29.88,
     "duration": "10-30 days",
-    "rateKRW": "35,520"
+    "rateKRW": 35520
   },
   {
     "country": "Brazil",
@@ -2741,7 +2741,7 @@
     "maxWeight": 1.4,
     "rateUSD": 32.01,
     "duration": "10-30 days",
-    "rateKRW": "38,050"
+    "rateKRW": 38050
   },
   {
     "country": "Brazil",
@@ -2749,7 +2749,7 @@
     "maxWeight": 1.5,
     "rateUSD": 34.12,
     "duration": "10-30 days",
-    "rateKRW": "40,560"
+    "rateKRW": 40560
   },
   {
     "country": "Brazil",
@@ -2757,7 +2757,7 @@
     "maxWeight": 1.6,
     "rateUSD": 36.08,
     "duration": "10-30 days",
-    "rateKRW": "42,880"
+    "rateKRW": 42880
   },
   {
     "country": "Brazil",
@@ -2765,7 +2765,7 @@
     "maxWeight": 1.7,
     "rateUSD": 38.04,
     "duration": "10-30 days",
-    "rateKRW": "45,210"
+    "rateKRW": 45210
   },
   {
     "country": "Brazil",
@@ -2773,7 +2773,7 @@
     "maxWeight": 1.8,
     "rateUSD": 39.99,
     "duration": "10-30 days",
-    "rateKRW": "47,530"
+    "rateKRW": 47530
   },
   {
     "country": "Brazil",
@@ -2781,7 +2781,7 @@
     "maxWeight": 1.9,
     "rateUSD": 41.94,
     "duration": "10-30 days",
-    "rateKRW": "49,850"
+    "rateKRW": 49850
   },
   {
     "country": "Brazil",
@@ -2789,7 +2789,7 @@
     "maxWeight": 2,
     "rateUSD": 43.89,
     "duration": "10-30 days",
-    "rateKRW": "52,170"
+    "rateKRW": 52170
   },
   {
     "country": "Brunei Darussalam‎",
@@ -5301,7 +5301,7 @@
     "maxWeight": 0.1,
     "rateUSD": 6.01,
     "duration": "7-14 days",
-    "rateKRW": "8,140"
+    "rateKRW": 8140
   },
   {
     "country": "Canada",
@@ -5309,7 +5309,7 @@
     "maxWeight": 0.2,
     "rateUSD": 7.94,
     "duration": "7-14 days",
-    "rateKRW": "10,440"
+    "rateKRW": 10440
   },
   {
     "country": "Canada",
@@ -5317,7 +5317,7 @@
     "maxWeight": 0.3,
     "rateUSD": 9.86,
     "duration": "7-14 days",
-    "rateKRW": "12,720"
+    "rateKRW": 12720
   },
   {
     "country": "Canada",
@@ -5325,7 +5325,7 @@
     "maxWeight": 0.4,
     "rateUSD": 11.79,
     "duration": "7-14 days",
-    "rateKRW": "15,010"
+    "rateKRW": 15010
   },
   {
     "country": "Canada",
@@ -5333,7 +5333,7 @@
     "maxWeight": 0.5,
     "rateUSD": 13.72,
     "duration": "7-14 days",
-    "rateKRW": "17,310"
+    "rateKRW": 17310
   },
   {
     "country": "Canada",
@@ -5341,7 +5341,7 @@
     "maxWeight": 0.6,
     "rateUSD": 16.17,
     "duration": "7-14 days",
-    "rateKRW": "20,220"
+    "rateKRW": 20220
   },
   {
     "country": "Canada",
@@ -5349,7 +5349,7 @@
     "maxWeight": 0.7,
     "rateUSD": 17.78,
     "duration": "7-14 days",
-    "rateKRW": "22,130"
+    "rateKRW": 22130
   },
   {
     "country": "Canada",
@@ -5357,7 +5357,7 @@
     "maxWeight": 0.8,
     "rateUSD": 19.38,
     "duration": "7-14 days",
-    "rateKRW": "24,040"
+    "rateKRW": 24040
   },
   {
     "country": "Canada",
@@ -5365,7 +5365,7 @@
     "maxWeight": 0.9,
     "rateUSD": 21,
     "duration": "7-14 days",
-    "rateKRW": "25,960"
+    "rateKRW": 25960
   },
   {
     "country": "Canada",
@@ -5373,7 +5373,7 @@
     "maxWeight": 1,
     "rateUSD": 22.62,
     "duration": "7-14 days",
-    "rateKRW": "27,890"
+    "rateKRW": 27890
   },
   {
     "country": "Canada",
@@ -5381,7 +5381,7 @@
     "maxWeight": 1.1,
     "rateUSD": 25.56,
     "duration": "7-14 days",
-    "rateKRW": "31,380"
+    "rateKRW": 31380
   },
   {
     "country": "Canada",
@@ -5389,7 +5389,7 @@
     "maxWeight": 1.2,
     "rateUSD": 27.65,
     "duration": "7-14 days",
-    "rateKRW": "33,870"
+    "rateKRW": 33870
   },
   {
     "country": "Canada",
@@ -5397,7 +5397,7 @@
     "maxWeight": 1.3,
     "rateUSD": 29.75,
     "duration": "7-14 days",
-    "rateKRW": "36,360"
+    "rateKRW": 36360
   },
   {
     "country": "Canada",
@@ -5405,7 +5405,7 @@
     "maxWeight": 1.4,
     "rateUSD": 31.85,
     "duration": "7-14 days",
-    "rateKRW": "38,860"
+    "rateKRW": 38860
   },
   {
     "country": "Canada",
@@ -5413,7 +5413,7 @@
     "maxWeight": 1.5,
     "rateUSD": 33.94,
     "duration": "7-14 days",
-    "rateKRW": "41,340"
+    "rateKRW": 41340
   },
   {
     "country": "Canada",
@@ -5421,7 +5421,7 @@
     "maxWeight": 1.6,
     "rateUSD": 35.36,
     "duration": "7-14 days",
-    "rateKRW": "43,030"
+    "rateKRW": 43030
   },
   {
     "country": "Canada",
@@ -5429,7 +5429,7 @@
     "maxWeight": 1.7,
     "rateUSD": 36.78,
     "duration": "7-14 days",
-    "rateKRW": "44,720"
+    "rateKRW": 44720
   },
   {
     "country": "Canada",
@@ -5437,7 +5437,7 @@
     "maxWeight": 1.8,
     "rateUSD": 38.21,
     "duration": "7-14 days",
-    "rateKRW": "46,420"
+    "rateKRW": 46420
   },
   {
     "country": "Canada",
@@ -5445,7 +5445,7 @@
     "maxWeight": 1.9,
     "rateUSD": 39.63,
     "duration": "7-14 days",
-    "rateKRW": "48,110"
+    "rateKRW": 48110
   },
   {
     "country": "Canada",
@@ -5453,7 +5453,7 @@
     "maxWeight": 2,
     "rateUSD": 41.06,
     "duration": "7-14 days",
-    "rateKRW": "49,800"
+    "rateKRW": 49800
   },
   {
     "country": "Canada",
@@ -6285,7 +6285,7 @@
     "maxWeight": 0.1,
     "rateUSD": 4.8,
     "duration": "7-14 days",
-    "rateKRW": "5,710"
+    "rateKRW": 5710
   },
   {
     "country": "China",
@@ -6293,7 +6293,7 @@
     "maxWeight": 0.2,
     "rateUSD": 5.87,
     "duration": "7-14 days",
-    "rateKRW": "6,980"
+    "rateKRW": 6980
   },
   {
     "country": "China",
@@ -6301,7 +6301,7 @@
     "maxWeight": 0.3,
     "rateUSD": 6.92,
     "duration": "7-14 days",
-    "rateKRW": "8,230"
+    "rateKRW": 8230
   },
   {
     "country": "China",
@@ -6309,7 +6309,7 @@
     "maxWeight": 0.4,
     "rateUSD": 7.98,
     "duration": "7-14 days",
-    "rateKRW": "9,490"
+    "rateKRW": 9490
   },
   {
     "country": "China",
@@ -6317,7 +6317,7 @@
     "maxWeight": 0.5,
     "rateUSD": 9.06,
     "duration": "7-14 days",
-    "rateKRW": "10,770"
+    "rateKRW": 10770
   },
   {
     "country": "China",
@@ -6325,7 +6325,7 @@
     "maxWeight": 0.6,
     "rateUSD": 10.75,
     "duration": "7-14 days",
-    "rateKRW": "12,780"
+    "rateKRW": 12780
   },
   {
     "country": "China",
@@ -6333,7 +6333,7 @@
     "maxWeight": 0.7,
     "rateUSD": 11.6,
     "duration": "7-14 days",
-    "rateKRW": "13,790"
+    "rateKRW": 13790
   },
   {
     "country": "China",
@@ -6341,7 +6341,7 @@
     "maxWeight": 0.8,
     "rateUSD": 12.46,
     "duration": "7-14 days",
-    "rateKRW": "14,810"
+    "rateKRW": 14810
   },
   {
     "country": "China",
@@ -6349,7 +6349,7 @@
     "maxWeight": 0.9,
     "rateUSD": 13.3,
     "duration": "7-14 days",
-    "rateKRW": "15,810"
+    "rateKRW": 15810
   },
   {
     "country": "China",
@@ -6357,7 +6357,7 @@
     "maxWeight": 1,
     "rateUSD": 14.16,
     "duration": "7-14 days",
-    "rateKRW": "16,830"
+    "rateKRW": 16830
   },
   {
     "country": "China",
@@ -6365,7 +6365,7 @@
     "maxWeight": 1.1,
     "rateUSD": 15.76,
     "duration": "7-14 days",
-    "rateKRW": "18,730"
+    "rateKRW": 18730
   },
   {
     "country": "China",
@@ -6373,7 +6373,7 @@
     "maxWeight": 1.2,
     "rateUSD": 16.51,
     "duration": "7-14 days",
-    "rateKRW": "19,620"
+    "rateKRW": 19620
   },
   {
     "country": "China",
@@ -6381,7 +6381,7 @@
     "maxWeight": 1.3,
     "rateUSD": 17.26,
     "duration": "7-14 days",
-    "rateKRW": "20,520"
+    "rateKRW": 20520
   },
   {
     "country": "China",
@@ -6389,7 +6389,7 @@
     "maxWeight": 1.4,
     "rateUSD": 18.01,
     "duration": "7-14 days",
-    "rateKRW": "21,410"
+    "rateKRW": 21410
   },
   {
     "country": "China",
@@ -6397,7 +6397,7 @@
     "maxWeight": 1.5,
     "rateUSD": 18.8,
     "duration": "7-14 days",
-    "rateKRW": "22,350"
+    "rateKRW": 22350
   },
   {
     "country": "China",
@@ -6405,7 +6405,7 @@
     "maxWeight": 1.6,
     "rateUSD": 19.26,
     "duration": "7-14 days",
-    "rateKRW": "22,890"
+    "rateKRW": 22890
   },
   {
     "country": "China",
@@ -6413,7 +6413,7 @@
     "maxWeight": 1.7,
     "rateUSD": 19.73,
     "duration": "7-14 days",
-    "rateKRW": "23,450"
+    "rateKRW": 23450
   },
   {
     "country": "China",
@@ -6421,7 +6421,7 @@
     "maxWeight": 1.8,
     "rateUSD": 20.19,
     "duration": "7-14 days",
-    "rateKRW": "24,000"
+    "rateKRW": 24000
   },
   {
     "country": "China",
@@ -6429,7 +6429,7 @@
     "maxWeight": 1.9,
     "rateUSD": 20.65,
     "duration": "7-14 days",
-    "rateKRW": "24,540"
+    "rateKRW": 24540
   },
   {
     "country": "China",
@@ -6437,7 +6437,7 @@
     "maxWeight": 2,
     "rateUSD": 21.13,
     "duration": "7-14 days",
-    "rateKRW": "25,120"
+    "rateKRW": 25120
   },
   {
     "country": "China",
@@ -28557,7 +28557,7 @@
     "maxWeight": 0.1,
     "rateUSD": 5.67,
     "duration": "7-20 days",
-    "rateKRW": "6,740"
+    "rateKRW": 6740
   },
   {
     "country": "United Kingdom",
@@ -28565,7 +28565,7 @@
     "maxWeight": 0.2,
     "rateUSD": 7.47,
     "duration": "7-20 days",
-    "rateKRW": "8,880"
+    "rateKRW": 8880
   },
   {
     "country": "United Kingdom",
@@ -28573,7 +28573,7 @@
     "maxWeight": 0.3,
     "rateUSD": 9.26,
     "duration": "7-20 days",
-    "rateKRW": "11,010"
+    "rateKRW": 11010
   },
   {
     "country": "United Kingdom",
@@ -28581,7 +28581,7 @@
     "maxWeight": 0.4,
     "rateUSD": 11.06,
     "duration": "7-20 days",
-    "rateKRW": "13,150"
+    "rateKRW": 13150
   },
   {
     "country": "United Kingdom",
@@ -28589,7 +28589,7 @@
     "maxWeight": 0.5,
     "rateUSD": 12.89,
     "duration": "7-20 days",
-    "rateKRW": "15,320"
+    "rateKRW": 15320
   },
   {
     "country": "United Kingdom",
@@ -28597,7 +28597,7 @@
     "maxWeight": 0.6,
     "rateUSD": 15.24,
     "duration": "7-20 days",
-    "rateKRW": "18,110"
+    "rateKRW": 18110
   },
   {
     "country": "United Kingdom",
@@ -28605,7 +28605,7 @@
     "maxWeight": 0.7,
     "rateUSD": 16.74,
     "duration": "7-20 days",
-    "rateKRW": "19,900"
+    "rateKRW": 19900
   },
   {
     "country": "United Kingdom",
@@ -28613,7 +28613,7 @@
     "maxWeight": 0.8,
     "rateUSD": 18.24,
     "duration": "7-20 days",
-    "rateKRW": "21,680"
+    "rateKRW": 21680
   },
   {
     "country": "United Kingdom",
@@ -28621,7 +28621,7 @@
     "maxWeight": 0.9,
     "rateUSD": 19.75,
     "duration": "7-20 days",
-    "rateKRW": "23,470"
+    "rateKRW": 23470
   },
   {
     "country": "United Kingdom",
@@ -28629,7 +28629,7 @@
     "maxWeight": 1,
     "rateUSD": 21.28,
     "duration": "7-20 days",
-    "rateKRW": "25,290"
+    "rateKRW": 25290
   },
   {
     "country": "United Kingdom",
@@ -28637,7 +28637,7 @@
     "maxWeight": 1.1,
     "rateUSD": 23.86,
     "duration": "7-20 days",
-    "rateKRW": "28,360"
+    "rateKRW": 28360
   },
   {
     "country": "United Kingdom",
@@ -28645,7 +28645,7 @@
     "maxWeight": 1.2,
     "rateUSD": 25.6,
     "duration": "7-20 days",
-    "rateKRW": "30,430"
+    "rateKRW": 30430
   },
   {
     "country": "United Kingdom",
@@ -28653,7 +28653,7 @@
     "maxWeight": 1.3,
     "rateUSD": 27.34,
     "duration": "7-20 days",
-    "rateKRW": "32,500"
+    "rateKRW": 32500
   },
   {
     "country": "United Kingdom",
@@ -28661,7 +28661,7 @@
     "maxWeight": 1.4,
     "rateUSD": 29.08,
     "duration": "7-20 days",
-    "rateKRW": "34,570"
+    "rateKRW": 34570
   },
   {
     "country": "United Kingdom",
@@ -28669,7 +28669,7 @@
     "maxWeight": 1.5,
     "rateUSD": 30.83,
     "duration": "7-20 days",
-    "rateKRW": "36,640"
+    "rateKRW": 36640
   },
   {
     "country": "United Kingdom",
@@ -28677,7 +28677,7 @@
     "maxWeight": 1.6,
     "rateUSD": 32.57,
     "duration": "7-20 days",
-    "rateKRW": "38,710"
+    "rateKRW": 38710
   },
   {
     "country": "United Kingdom",
@@ -28685,7 +28685,7 @@
     "maxWeight": 1.7,
     "rateUSD": 34.31,
     "duration": "7-20 days",
-    "rateKRW": "40,780"
+    "rateKRW": 40780
   },
   {
     "country": "United Kingdom",
@@ -28693,7 +28693,7 @@
     "maxWeight": 1.8,
     "rateUSD": 36.05,
     "duration": "7-20 days",
-    "rateKRW": "42,850"
+    "rateKRW": 42850
   },
   {
     "country": "United Kingdom",
@@ -28701,7 +28701,7 @@
     "maxWeight": 1.9,
     "rateUSD": 37.79,
     "duration": "7-20 days",
-    "rateKRW": "44,920"
+    "rateKRW": 44920
   },
   {
     "country": "United Kingdom",
@@ -28709,7 +28709,7 @@
     "maxWeight": 2,
     "rateUSD": 39.53,
     "duration": "7-20 days",
-    "rateKRW": "46,990"
+    "rateKRW": 46990
   },
   {
     "country": "United Kingdom",
@@ -29485,7 +29485,7 @@
     "maxWeight": 0.1,
     "rateUSD": 8.15,
     "duration": "7-14 days",
-    "rateKRW": "9,690"
+    "rateKRW": 9690
   },
   {
     "country": "United States",
@@ -29493,7 +29493,7 @@
     "maxWeight": 0.2,
     "rateUSD": 9.41,
     "duration": "7-14 days",
-    "rateKRW": "11,180"
+    "rateKRW": 11180
   },
   {
     "country": "United States",
@@ -29501,7 +29501,7 @@
     "maxWeight": 0.3,
     "rateUSD": 11.66,
     "duration": "7-14 days",
-    "rateKRW": "13,860"
+    "rateKRW": 13860
   },
   {
     "country": "United States",
@@ -29509,7 +29509,7 @@
     "maxWeight": 0.4,
     "rateUSD": 13.94,
     "duration": "7-14 days",
-    "rateKRW": "16,570"
+    "rateKRW": 16570
   },
   {
     "country": "United States",
@@ -29517,7 +29517,7 @@
     "maxWeight": 0.5,
     "rateUSD": 16.22,
     "duration": "7-14 days",
-    "rateKRW": "19,280"
+    "rateKRW": 19280
   },
   {
     "country": "United States",
@@ -29525,7 +29525,7 @@
     "maxWeight": 0.6,
     "rateUSD": 18.94,
     "duration": "7-14 days",
-    "rateKRW": "22,510"
+    "rateKRW": 22510
   },
   {
     "country": "United States",
@@ -29533,7 +29533,7 @@
     "maxWeight": 0.7,
     "rateUSD": 20.81,
     "duration": "7-14 days",
-    "rateKRW": "24,730"
+    "rateKRW": 24730
   },
   {
     "country": "United States",
@@ -29541,7 +29541,7 @@
     "maxWeight": 0.8,
     "rateUSD": 22.68,
     "duration": "7-14 days",
-    "rateKRW": "26,960"
+    "rateKRW": 26960
   },
   {
     "country": "United States",
@@ -29549,7 +29549,7 @@
     "maxWeight": 0.9,
     "rateUSD": 24.55,
     "duration": "7-14 days",
-    "rateKRW": "29,180"
+    "rateKRW": 29180
   },
   {
     "country": "United States",
@@ -29557,7 +29557,7 @@
     "maxWeight": 1,
     "rateUSD": 26.44,
     "duration": "7-14 days",
-    "rateKRW": "31,430"
+    "rateKRW": 31430
   },
   {
     "country": "United States",
@@ -29565,7 +29565,7 @@
     "maxWeight": 1.1,
     "rateUSD": 29.77,
     "duration": "7-14 days",
-    "rateKRW": "35,380"
+    "rateKRW": 35380
   },
   {
     "country": "United States",
@@ -29573,7 +29573,7 @@
     "maxWeight": 1.2,
     "rateUSD": 32.25,
     "duration": "7-14 days",
-    "rateKRW": "38,330"
+    "rateKRW": 38330
   },
   {
     "country": "United States",
@@ -29581,7 +29581,7 @@
     "maxWeight": 1.3,
     "rateUSD": 34.73,
     "duration": "7-14 days",
-    "rateKRW": "41,280"
+    "rateKRW": 41280
   },
   {
     "country": "United States",
@@ -29589,7 +29589,7 @@
     "maxWeight": 1.4,
     "rateUSD": 37.19,
     "duration": "7-14 days",
-    "rateKRW": "44,210"
+    "rateKRW": 44210
   },
   {
     "country": "United States",
@@ -29597,7 +29597,7 @@
     "maxWeight": 1.5,
     "rateUSD": 39.68,
     "duration": "7-14 days",
-    "rateKRW": "47,160"
+    "rateKRW": 47160
   },
   {
     "country": "United States",
@@ -29605,7 +29605,7 @@
     "maxWeight": 1.6,
     "rateUSD": 41.96,
     "duration": "7-14 days",
-    "rateKRW": "49,870"
+    "rateKRW": 49870
   },
   {
     "country": "United States",
@@ -29613,7 +29613,7 @@
     "maxWeight": 1.7,
     "rateUSD": 44.21,
     "duration": "7-14 days",
-    "rateKRW": "52,550"
+    "rateKRW": 52550
   },
   {
     "country": "United States",
@@ -29621,7 +29621,7 @@
     "maxWeight": 1.8,
     "rateUSD": 46.47,
     "duration": "7-14 days",
-    "rateKRW": "55,240"
+    "rateKRW": 55240
   },
   {
     "country": "United States",
@@ -29629,7 +29629,7 @@
     "maxWeight": 1.9,
     "rateUSD": 48.74,
     "duration": "7-14 days",
-    "rateKRW": "57,930"
+    "rateKRW": 57930
   },
   {
     "country": "United States",
@@ -29637,7 +29637,7 @@
     "maxWeight": 2,
     "rateUSD": 51.06,
     "duration": "7-14 days",
-    "rateKRW": "60,690"
+    "rateKRW": 60690
   },
   {
     "country": "United States",
