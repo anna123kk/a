@@ -12384,6 +12384,486 @@
     "rateKRW": ""
   },
   {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 0.5,
+    "rateUSD": 41.22,
+    "duration": "2-7 days",
+    "rateKRW": 48993
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 1,
+    "rateUSD": 47.83,
+    "duration": "2-7 days",
+    "rateKRW": 56853
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 1.5,
+    "rateUSD": 54.47,
+    "duration": "2-7 days",
+    "rateKRW": 64747
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 2,
+    "rateUSD": 60.92,
+    "duration": "2-7 days",
+    "rateKRW": 72408
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 2.5,
+    "rateUSD": 67.5,
+    "duration": "2-7 days",
+    "rateKRW": 80235
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 3,
+    "rateUSD": 73.3,
+    "duration": "2-7 days",
+    "rateKRW": 87128
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 3.5,
+    "rateUSD": 78.68,
+    "duration": "2-7 days",
+    "rateKRW": 93524
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 4,
+    "rateUSD": 84.04,
+    "duration": "2-7 days",
+    "rateKRW": 99885
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 4.5,
+    "rateUSD": 89.44,
+    "duration": "2-7 days",
+    "rateKRW": 106314
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 5,
+    "rateUSD": 94.77,
+    "duration": "2-7 days",
+    "rateKRW": 112641
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 5.5,
+    "rateUSD": 103.9,
+    "duration": "2-7 days",
+    "rateKRW": 123496
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 6,
+    "rateUSD": 109.68,
+    "duration": "2-7 days",
+    "rateKRW": 130368
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 6.5,
+    "rateUSD": 115.2,
+    "duration": "2-7 days",
+    "rateKRW": 136931
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 7,
+    "rateUSD": 120.98,
+    "duration": "2-7 days",
+    "rateKRW": 143802
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 7.5,
+    "rateUSD": 126.5,
+    "duration": "2-7 days",
+    "rateKRW": 150363
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 8,
+    "rateUSD": 132.75,
+    "duration": "2-7 days",
+    "rateKRW": 157789
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 8.5,
+    "rateUSD": 138.88,
+    "duration": "2-7 days",
+    "rateKRW": 165075
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 9,
+    "rateUSD": 145.1,
+    "duration": "2-7 days",
+    "rateKRW": 172465
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 9.5,
+    "rateUSD": 151.35,
+    "duration": "2-7 days",
+    "rateKRW": 179890
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 10,
+    "rateUSD": 157.42,
+    "duration": "2-7 days",
+    "rateKRW": 187108
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 10.5,
+    "rateUSD": 162.91,
+    "duration": "2-7 days",
+    "rateKRW": 193635
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 11,
+    "rateUSD": 168.43,
+    "duration": "2-7 days",
+    "rateKRW": 200196
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 11.5,
+    "rateUSD": 173.81,
+    "duration": "2-7 days",
+    "rateKRW": 206586
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 12,
+    "rateUSD": 179.3,
+    "duration": "2-7 days",
+    "rateKRW": 213112
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 12.5,
+    "rateUSD": 184.7,
+    "duration": "2-7 days",
+    "rateKRW": 219536
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 13,
+    "rateUSD": 190.19,
+    "duration": "2-7 days",
+    "rateKRW": 226063
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 13.5,
+    "rateUSD": 195.6,
+    "duration": "2-7 days",
+    "rateKRW": 232487
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 14,
+    "rateUSD": 201.2,
+    "duration": "2-7 days",
+    "rateKRW": 239152
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 14.5,
+    "rateUSD": 206.64,
+    "duration": "2-7 days",
+    "rateKRW": 245610
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 15,
+    "rateUSD": 212.16,
+    "duration": "2-7 days",
+    "rateKRW": 252171
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 15.5,
+    "rateUSD": 214.36,
+    "duration": "2-7 days",
+    "rateKRW": 254795
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 16,
+    "rateUSD": 216.46,
+    "duration": "2-7 days",
+    "rateKRW": 257283
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 16.5,
+    "rateUSD": 218.72,
+    "duration": "2-7 days",
+    "rateKRW": 259975
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 17,
+    "rateUSD": 220.84,
+    "duration": "2-7 days",
+    "rateKRW": 262497
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 17.5,
+    "rateUSD": 222.94,
+    "duration": "2-7 days",
+    "rateKRW": 264983
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 18,
+    "rateUSD": 227.24,
+    "duration": "2-7 days",
+    "rateKRW": 270094
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 18.5,
+    "rateUSD": 231.56,
+    "duration": "2-7 days",
+    "rateKRW": 275240
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 19,
+    "rateUSD": 237.55,
+    "duration": "2-7 days",
+    "rateKRW": 282354
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 19.5,
+    "rateUSD": 243.54,
+    "duration": "2-7 days",
+    "rateKRW": 289469
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 20,
+    "rateUSD": 249.52,
+    "duration": "2-7 days",
+    "rateKRW": 296582
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 21,
+    "rateUSD": 271.46,
+    "duration": "2-7 days",
+    "rateKRW": 322664
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 22,
+    "rateUSD": 284.39,
+    "duration": "2-7 days",
+    "rateKRW": 338030
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 23,
+    "rateUSD": 297.32,
+    "duration": "2-7 days",
+    "rateKRW": 353394
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 24,
+    "rateUSD": 310.25,
+    "duration": "2-7 days",
+    "rateKRW": 368760
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 25,
+    "rateUSD": 323.17,
+    "duration": "2-7 days",
+    "rateKRW": 384125
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 26,
+    "rateUSD": 336.1,
+    "duration": "2-7 days",
+    "rateKRW": 399489
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 27,
+    "rateUSD": 349.03,
+    "duration": "2-7 days",
+    "rateKRW": 414855
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 28,
+    "rateUSD": 361.95,
+    "duration": "2-7 days",
+    "rateKRW": 430220
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 29,
+    "rateUSD": 374.88,
+    "duration": "2-7 days",
+    "rateKRW": 445585
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 30,
+    "rateUSD": 387.81,
+    "duration": "2-7 days",
+    "rateKRW": 460950
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 31,
+    "rateUSD": 400.73,
+    "duration": "2-7 days",
+    "rateKRW": 476314
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 32,
+    "rateUSD": 413.66,
+    "duration": "2-7 days",
+    "rateKRW": 491680
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 33,
+    "rateUSD": 426.59,
+    "duration": "2-7 days",
+    "rateKRW": 507044
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 34,
+    "rateUSD": 439.51,
+    "duration": "2-7 days",
+    "rateKRW": 522410
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 35,
+    "rateUSD": 452.44,
+    "duration": "2-7 days",
+    "rateKRW": 537774
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 36,
+    "rateUSD": 465.37,
+    "duration": "2-7 days",
+    "rateKRW": 553139
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 37,
+    "rateUSD": 478.29,
+    "duration": "2-7 days",
+    "rateKRW": 568505
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 38,
+    "rateUSD": 491.22,
+    "duration": "2-7 days",
+    "rateKRW": 583869
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 39,
+    "rateUSD": 504.15,
+    "duration": "2-7 days",
+    "rateKRW": 599235
+  },
+  {
+    "country": "Ireland",
+    "carrier": "UPS (Express)",
+    "maxWeight": 40,
+    "rateUSD": 517.07,
+    "duration": "2-7 days",
+    "rateKRW": 614600
+  },
+  {
     "country": "Israel",
     "carrier": "EMS",
     "maxWeight": 0.5,
@@ -19645,7 +20125,7 @@
     "maxWeight": 0.5,
     "rateUSD": 24.29,
     "duration": "2-7 days",
-    "rateKRW": 29248
+    "rateKRW": 31002
   },
   {
     "country": "Philippines",
@@ -19653,7 +20133,7 @@
     "maxWeight": 1,
     "rateUSD": 25.84,
     "duration": "2-7 days",
-    "rateKRW": 31089
+    "rateKRW": 33170
   },
   {
     "country": "Philippines",
@@ -19661,7 +20141,7 @@
     "maxWeight": 1.5,
     "rateUSD": 27.39,
     "duration": "2-7 days",
-    "rateKRW": 32929
+    "rateKRW": 35359
   },
   {
     "country": "Philippines",
@@ -19669,7 +20149,7 @@
     "maxWeight": 2,
     "rateUSD": 28.95,
     "duration": "2-7 days",
-    "rateKRW": 34789
+    "rateKRW": 37504
   },
   {
     "country": "Philippines",
@@ -19677,7 +20157,7 @@
     "maxWeight": 2.5,
     "rateUSD": 30.34,
     "duration": "2-7 days",
-    "rateKRW": 36439
+    "rateKRW": 39781
   },
   {
     "country": "Philippines",
@@ -19685,7 +20165,7 @@
     "maxWeight": 3,
     "rateUSD": 31.6,
     "duration": "2-7 days",
-    "rateKRW": 37937
+    "rateKRW": 42169
   },
   {
     "country": "Philippines",
@@ -19693,7 +20173,7 @@
     "maxWeight": 3.5,
     "rateUSD": 32.75,
     "duration": "2-7 days",
-    "rateKRW": 39304
+    "rateKRW": 44448
   },
   {
     "country": "Philippines",
@@ -19701,7 +20181,7 @@
     "maxWeight": 4,
     "rateUSD": 33.82,
     "duration": "2-7 days",
-    "rateKRW": 40576
+    "rateKRW": 46747
   },
   {
     "country": "Philippines",
@@ -19709,7 +20189,7 @@
     "maxWeight": 4.5,
     "rateUSD": 34.73,
     "duration": "2-7 days",
-    "rateKRW": 41658
+    "rateKRW": 49135
   },
   {
     "country": "Philippines",
@@ -19717,7 +20197,7 @@
     "maxWeight": 5,
     "rateUSD": 35.72,
     "duration": "2-7 days",
-    "rateKRW": 42834
+    "rateKRW": 51524
   },
   {
     "country": "Philippines",
@@ -19725,7 +20205,7 @@
     "maxWeight": 5.5,
     "rateUSD": 36.66,
     "duration": "2-7 days",
-    "rateKRW": 43953
+    "rateKRW": 53802
   },
   {
     "country": "Philippines",
@@ -19733,7 +20213,7 @@
     "maxWeight": 6,
     "rateUSD": 37.57,
     "duration": "2-7 days",
-    "rateKRW": 45034
+    "rateKRW": 56189
   },
   {
     "country": "Philippines",
@@ -19741,7 +20221,7 @@
     "maxWeight": 6.5,
     "rateUSD": 38.45,
     "duration": "2-7 days",
-    "rateKRW": 46078
+    "rateKRW": 58467
   },
   {
     "country": "Philippines",
@@ -19749,7 +20229,7 @@
     "maxWeight": 7,
     "rateUSD": 39.3,
     "duration": "2-7 days",
-    "rateKRW": 47083
+    "rateKRW": 60744
   },
   {
     "country": "Philippines",
@@ -19757,7 +20237,7 @@
     "maxWeight": 7.5,
     "rateUSD": 40.11,
     "duration": "2-7 days",
-    "rateKRW": 48051
+    "rateKRW": 63154
   },
   {
     "country": "Philippines",
@@ -19765,7 +20245,7 @@
     "maxWeight": 8,
     "rateUSD": 40.97,
     "duration": "2-7 days",
-    "rateKRW": 49076
+    "rateKRW": 65233
   },
   {
     "country": "Philippines",
@@ -19773,7 +20253,7 @@
     "maxWeight": 8.5,
     "rateUSD": 41.67,
     "duration": "2-7 days",
-    "rateKRW": 49910
+    "rateKRW": 67312
   },
   {
     "country": "Philippines",
@@ -19781,7 +20261,7 @@
     "maxWeight": 9,
     "rateUSD": 42.57,
     "duration": "2-7 days",
-    "rateKRW": 50973
+    "rateKRW": 69413
   },
   {
     "country": "Philippines",
@@ -19789,7 +20269,7 @@
     "maxWeight": 9.5,
     "rateUSD": 43.35,
     "duration": "2-7 days",
-    "rateKRW": 51902
+    "rateKRW": 71558
   },
   {
     "country": "Philippines",
@@ -19797,7 +20277,7 @@
     "maxWeight": 10,
     "rateUSD": 44.15,
     "duration": "2-7 days",
-    "rateKRW": 52852
+    "rateKRW": 73659
   },
   {
     "country": "Philippines",
@@ -19805,7 +20285,7 @@
     "maxWeight": 10.5,
     "rateUSD": 44.93,
     "duration": "2-7 days",
-    "rateKRW": 53781
+    "rateKRW": 75162
   },
   {
     "country": "Philippines",
@@ -19813,7 +20293,7 @@
     "maxWeight": 11,
     "rateUSD": 45.74,
     "duration": "2-7 days",
-    "rateKRW": 54749
+    "rateKRW": 76689
   },
   {
     "country": "Philippines",
@@ -19821,7 +20301,7 @@
     "maxWeight": 11.5,
     "rateUSD": 46.56,
     "duration": "2-7 days",
-    "rateKRW": 55717
+    "rateKRW": 78302
   },
   {
     "country": "Philippines",
@@ -19829,7 +20309,7 @@
     "maxWeight": 12,
     "rateUSD": 47.36,
     "duration": "2-7 days",
-    "rateKRW": 56665
+    "rateKRW": 79761
   },
   {
     "country": "Philippines",
@@ -19837,7 +20317,7 @@
     "maxWeight": 12.5,
     "rateUSD": 48.16,
     "duration": "2-7 days",
-    "rateKRW": 57614
+    "rateKRW": 81287
   },
   {
     "country": "Philippines",
@@ -19845,7 +20325,7 @@
     "maxWeight": 13,
     "rateUSD": 48.94,
     "duration": "2-7 days",
-    "rateKRW": 58544
+    "rateKRW": 82570
   },
   {
     "country": "Philippines",
@@ -19853,7 +20333,7 @@
     "maxWeight": 13.5,
     "rateUSD": 49.78,
     "duration": "2-7 days",
-    "rateKRW": 59550
+    "rateKRW": 83808
   },
   {
     "country": "Philippines",
@@ -19861,7 +20341,7 @@
     "maxWeight": 14,
     "rateUSD": 50.61,
     "duration": "2-7 days",
-    "rateKRW": 60536
+    "rateKRW": 85157
   },
   {
     "country": "Philippines",
@@ -19869,7 +20349,7 @@
     "maxWeight": 14.5,
     "rateUSD": 51.36,
     "duration": "2-7 days",
-    "rateKRW": 61428
+    "rateKRW": 86418
   },
   {
     "country": "Philippines",
@@ -19877,7 +20357,7 @@
     "maxWeight": 15,
     "rateUSD": 52.18,
     "duration": "2-7 days",
-    "rateKRW": 62395
+    "rateKRW": 87700
   },
   {
     "country": "Philippines",
@@ -19885,7 +20365,7 @@
     "maxWeight": 15.5,
     "rateUSD": 52.99,
     "duration": "2-7 days",
-    "rateKRW": 63362
+    "rateKRW": 87900
   },
   {
     "country": "Philippines",
@@ -19893,7 +20373,7 @@
     "maxWeight": 16,
     "rateUSD": 53.82,
     "duration": "2-7 days",
-    "rateKRW": 64349
+    "rateKRW": 88164
   },
   {
     "country": "Philippines",
@@ -19901,7 +20381,7 @@
     "maxWeight": 16.5,
     "rateUSD": 54.56,
     "duration": "2-7 days",
-    "rateKRW": 65223
+    "rateKRW": 88298
   },
   {
     "country": "Philippines",
@@ -19909,7 +20389,7 @@
     "maxWeight": 17,
     "rateUSD": 55.37,
     "duration": "2-7 days",
-    "rateKRW": 66190
+    "rateKRW": 88541
   },
   {
     "country": "Philippines",
@@ -19917,7 +20397,7 @@
     "maxWeight": 17.5,
     "rateUSD": 56.18,
     "duration": "2-7 days",
-    "rateKRW": 67157
+    "rateKRW": 88828
   },
   {
     "country": "Philippines",
@@ -19925,7 +20405,7 @@
     "maxWeight": 18,
     "rateUSD": 56.84,
     "duration": "2-7 days",
-    "rateKRW": 67935
+    "rateKRW": 88894
   },
   {
     "country": "Philippines",
@@ -19933,7 +20413,7 @@
     "maxWeight": 18.5,
     "rateUSD": 57.4,
     "duration": "2-7 days",
-    "rateKRW": 68600
+    "rateKRW": 88983
   },
   {
     "country": "Philippines",
@@ -19941,7 +20421,7 @@
     "maxWeight": 19,
     "rateUSD": 57.97,
     "duration": "2-7 days",
-    "rateKRW": 69282
+    "rateKRW": 89159
   },
   {
     "country": "Philippines",
@@ -19949,7 +20429,7 @@
     "maxWeight": 19.5,
     "rateUSD": 59.09,
     "duration": "2-7 days",
-    "rateKRW": 70610
+    "rateKRW": 89315
   },
   {
     "country": "Philippines",
@@ -19957,7 +20437,7 @@
     "maxWeight": 20,
     "rateUSD": 60.45,
     "duration": "2-7 days",
-    "rateKRW": 72223
+    "rateKRW": 89558
   },
   {
     "country": "Philippines",
@@ -19965,7 +20445,7 @@
     "maxWeight": 21,
     "rateUSD": 63.22,
     "duration": "2-7 days",
-    "rateKRW": 75524
+    "rateKRW": 92875
   },
   {
     "country": "Philippines",
@@ -19973,7 +20453,7 @@
     "maxWeight": 22,
     "rateUSD": 66.05,
     "duration": "2-7 days",
-    "rateKRW": 78883
+    "rateKRW": 97297
   },
   {
     "country": "Philippines",
@@ -19981,7 +20461,7 @@
     "maxWeight": 23,
     "rateUSD": 68.87,
     "duration": "2-7 days",
-    "rateKRW": 82241
+    "rateKRW": 101720
   },
   {
     "country": "Philippines",
@@ -19989,7 +20469,7 @@
     "maxWeight": 24,
     "rateUSD": 71.7,
     "duration": "2-7 days",
-    "rateKRW": 85599
+    "rateKRW": 106142
   },
   {
     "country": "Philippines",
@@ -19997,7 +20477,7 @@
     "maxWeight": 25,
     "rateUSD": 74.53,
     "duration": "2-7 days",
-    "rateKRW": 88958
+    "rateKRW": 110565
   },
   {
     "country": "Philippines",
@@ -20005,7 +20485,7 @@
     "maxWeight": 26,
     "rateUSD": 77.35,
     "duration": "2-7 days",
-    "rateKRW": 92316
+    "rateKRW": 114988
   },
   {
     "country": "Philippines",
@@ -20013,7 +20493,7 @@
     "maxWeight": 27,
     "rateUSD": 80.18,
     "duration": "2-7 days",
-    "rateKRW": 95674
+    "rateKRW": 119410
   },
   {
     "country": "Philippines",
@@ -20021,7 +20501,7 @@
     "maxWeight": 28,
     "rateUSD": 83,
     "duration": "2-7 days",
-    "rateKRW": 99032
+    "rateKRW": 123833
   },
   {
     "country": "Philippines",
@@ -20029,7 +20509,7 @@
     "maxWeight": 29,
     "rateUSD": 85.83,
     "duration": "2-7 days",
-    "rateKRW": 102392
+    "rateKRW": 128255
   },
   {
     "country": "Philippines",
@@ -20037,7 +20517,7 @@
     "maxWeight": 30,
     "rateUSD": 88.65,
     "duration": "2-7 days",
-    "rateKRW": 105750
+    "rateKRW": 132678
   },
   {
     "country": "Philippines",
@@ -20045,7 +20525,7 @@
     "maxWeight": 31,
     "rateUSD": 91.48,
     "duration": "2-7 days",
-    "rateKRW": 109108
+    "rateKRW": 137101
   },
   {
     "country": "Philippines",
@@ -20053,7 +20533,7 @@
     "maxWeight": 32,
     "rateUSD": 94.3,
     "duration": "2-7 days",
-    "rateKRW": 112466
+    "rateKRW": 141523
   },
   {
     "country": "Philippines",
@@ -20061,7 +20541,7 @@
     "maxWeight": 33,
     "rateUSD": 97.13,
     "duration": "2-7 days",
-    "rateKRW": 115824
+    "rateKRW": 145946
   },
   {
     "country": "Philippines",
@@ -20069,7 +20549,7 @@
     "maxWeight": 34,
     "rateUSD": 99.95,
     "duration": "2-7 days",
-    "rateKRW": 119182
+    "rateKRW": 150368
   },
   {
     "country": "Philippines",
@@ -20077,7 +20557,7 @@
     "maxWeight": 35,
     "rateUSD": 102.78,
     "duration": "2-7 days",
-    "rateKRW": 122541
+    "rateKRW": 154791
   },
   {
     "country": "Philippines",
@@ -20085,7 +20565,7 @@
     "maxWeight": 36,
     "rateUSD": 105.6,
     "duration": "2-7 days",
-    "rateKRW": 125899
+    "rateKRW": 159214
   },
   {
     "country": "Philippines",
@@ -20093,7 +20573,7 @@
     "maxWeight": 37,
     "rateUSD": 108.43,
     "duration": "2-7 days",
-    "rateKRW": 129257
+    "rateKRW": 163636
   },
   {
     "country": "Philippines",
@@ -20101,7 +20581,7 @@
     "maxWeight": 38,
     "rateUSD": 111.25,
     "duration": "2-7 days",
-    "rateKRW": 132615
+    "rateKRW": 168059
   },
   {
     "country": "Philippines",
@@ -20109,7 +20589,7 @@
     "maxWeight": 39,
     "rateUSD": 114.08,
     "duration": "2-7 days",
-    "rateKRW": 135975
+    "rateKRW": 172481
   },
   {
     "country": "Philippines",
@@ -20117,7 +20597,7 @@
     "maxWeight": 40,
     "rateUSD": 116.91,
     "duration": "2-7 days",
-    "rateKRW": 139333
+    "rateKRW": 176904
   },
   {
     "country": "Poland",
