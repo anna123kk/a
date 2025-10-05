@@ -5803,481 +5803,481 @@
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 0.5,
-    "rateUSD": 44.68,
+    "rateUSD": 47.61,
     "duration": "2-7 days",
-    "rateKRW": 53486
+    "rateKRW": 56595
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 1,
-    "rateUSD": 48.93,
+    "rateUSD": 52.74,
     "duration": "2-7 days",
-    "rateKRW": 58532
+    "rateKRW": 62681
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 1.5,
-    "rateUSD": 53.01,
+    "rateUSD": 57.69,
     "duration": "2-7 days",
-    "rateKRW": 63388
+    "rateKRW": 68569
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 2,
-    "rateUSD": 57.04,
+    "rateUSD": 62.58,
     "duration": "2-7 days",
-    "rateKRW": 68180
+    "rateKRW": 74388
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 2.5,
-    "rateUSD": 61.18,
+    "rateUSD": 67.59,
     "duration": "2-7 days",
-    "rateKRW": 73099
+    "rateKRW": 80342
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 3,
-    "rateUSD": 65.19,
+    "rateUSD": 72.46,
     "duration": "2-7 days",
-    "rateKRW": 77857
+    "rateKRW": 86127
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 3.5,
-    "rateUSD": 68.87,
+    "rateUSD": 76.99,
     "duration": "2-7 days",
-    "rateKRW": 82233
+    "rateKRW": 91511
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 4,
-    "rateUSD": 72.6,
+    "rateUSD": 81.58,
     "duration": "2-7 days",
-    "rateKRW": 86673
+    "rateKRW": 96962
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 4.5,
-    "rateUSD": 77.2,
+    "rateUSD": 87.06,
     "duration": "2-7 days",
-    "rateKRW": 92135
+    "rateKRW": 103485
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 5,
-    "rateUSD": 80.99,
+    "rateUSD": 91.71,
     "duration": "2-7 days",
-    "rateKRW": 96640
+    "rateKRW": 109004
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 5.5,
-    "rateUSD": 99.64,
+    "rateUSD": 111.92,
     "duration": "2-7 days",
-    "rateKRW": 118810
+    "rateKRW": 133029
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 6,
-    "rateUSD": 104.13,
+    "rateUSD": 117.29,
     "duration": "2-7 days",
-    "rateKRW": 124141
+    "rateKRW": 139415
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 6.5,
-    "rateUSD": 108.58,
+    "rateUSD": 122.63,
     "duration": "2-7 days",
-    "rateKRW": 129434
+    "rateKRW": 145760
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 7,
-    "rateUSD": 112.94,
+    "rateUSD": 127.87,
     "duration": "2-7 days",
-    "rateKRW": 134615
+    "rateKRW": 151987
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 7.5,
-    "rateUSD": 116.18,
+    "rateUSD": 131.94,
     "duration": "2-7 days",
-    "rateKRW": 138471
+    "rateKRW": 156827
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 8,
-    "rateUSD": 120.48,
+    "rateUSD": 137.11,
     "duration": "2-7 days",
-    "rateKRW": 143576
+    "rateKRW": 162975
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 8.5,
-    "rateUSD": 124.74,
+    "rateUSD": 142.25,
     "duration": "2-7 days",
-    "rateKRW": 148642
+    "rateKRW": 169082
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 9,
-    "rateUSD": 128.84,
+    "rateUSD": 147.22,
     "duration": "2-7 days",
-    "rateKRW": 153520
+    "rateKRW": 174993
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 9.5,
-    "rateUSD": 133.14,
+    "rateUSD": 152.4,
     "duration": "2-7 days",
-    "rateKRW": 158624
+    "rateKRW": 181140
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 10,
-    "rateUSD": 137.46,
+    "rateUSD": 157.6,
     "duration": "2-7 days",
-    "rateKRW": 163766
+    "rateKRW": 187327
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 10.5,
-    "rateUSD": 140.52,
+    "rateUSD": 161.47,
     "duration": "2-7 days",
-    "rateKRW": 167397
+    "rateKRW": 191930
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 11,
-    "rateUSD": 143.95,
+    "rateUSD": 165.75,
     "duration": "2-7 days",
-    "rateKRW": 171480
+    "rateKRW": 197007
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 11.5,
-    "rateUSD": 147.29,
+    "rateUSD": 169.92,
     "duration": "2-7 days",
-    "rateKRW": 175451
+    "rateKRW": 201967
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 12,
-    "rateUSD": 150.41,
+    "rateUSD": 173.86,
     "duration": "2-7 days",
-    "rateKRW": 179155
+    "rateKRW": 206648
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 12.5,
-    "rateUSD": 153.81,
+    "rateUSD": 178.1,
     "duration": "2-7 days",
-    "rateKRW": 183201
+    "rateKRW": 211687
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 13,
-    "rateUSD": 157.19,
+    "rateUSD": 182.3,
     "duration": "2-7 days",
-    "rateKRW": 187209
+    "rateKRW": 216685
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 13.5,
-    "rateUSD": 160.49,
+    "rateUSD": 186.44,
     "duration": "2-7 days",
-    "rateKRW": 191141
+    "rateKRW": 221605
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 14,
-    "rateUSD": 163.61,
+    "rateUSD": 190.38,
     "duration": "2-7 days",
-    "rateKRW": 194847
+    "rateKRW": 226288
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 14.5,
-    "rateUSD": 167.05,
+    "rateUSD": 194.65,
     "duration": "2-7 days",
-    "rateKRW": 198930
+    "rateKRW": 231365
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 15,
-    "rateUSD": 170.36,
+    "rateUSD": 198.79,
     "duration": "2-7 days",
-    "rateKRW": 202862
+    "rateKRW": 236284
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 15.5,
-    "rateUSD": 173.54,
+    "rateUSD": 202.8,
     "duration": "2-7 days",
-    "rateKRW": 206643
+    "rateKRW": 241045
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 16,
-    "rateUSD": 176.69,
+    "rateUSD": 206.77,
     "duration": "2-7 days",
-    "rateKRW": 210386
+    "rateKRW": 245767
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 16.5,
-    "rateUSD": 179.9,
+    "rateUSD": 210.81,
     "duration": "2-7 days",
-    "rateKRW": 214205
+    "rateKRW": 250567
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 17,
-    "rateUSD": 183.17,
+    "rateUSD": 214.91,
     "duration": "2-7 days",
-    "rateKRW": 218100
+    "rateKRW": 255447
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 17.5,
-    "rateUSD": 186.48,
+    "rateUSD": 219.05,
     "duration": "2-7 days",
-    "rateKRW": 222032
+    "rateKRW": 260367
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 18,
-    "rateUSD": 188.81,
+    "rateUSD": 222.16,
     "duration": "2-7 days",
-    "rateKRW": 224792
+    "rateKRW": 264059
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 18.5,
-    "rateUSD": 191.26,
+    "rateUSD": 225.4,
     "duration": "2-7 days",
-    "rateKRW": 227704
+    "rateKRW": 267909
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 19,
-    "rateUSD": 195.58,
+    "rateUSD": 230.6,
     "duration": "2-7 days",
-    "rateKRW": 232846
+    "rateKRW": 274096
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 19.5,
-    "rateUSD": 199.05,
+    "rateUSD": 234.91,
     "duration": "2-7 days",
-    "rateKRW": 236968
+    "rateKRW": 279214
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 20,
-    "rateUSD": 203.85,
+    "rateUSD": 240.61,
     "duration": "2-7 days",
-    "rateKRW": 242677
+    "rateKRW": 285995
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 21,
-    "rateUSD": 222.33,
+    "rateUSD": 261.31,
     "duration": "2-7 days",
-    "rateKRW": 264637
+    "rateKRW": 310600
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 22,
-    "rateUSD": 232.73,
+    "rateUSD": 273.56,
     "duration": "2-7 days",
-    "rateKRW": 276999
+    "rateKRW": 325152
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 23,
-    "rateUSD": 243.13,
+    "rateUSD": 285.8,
     "duration": "2-7 days",
-    "rateKRW": 289364
+    "rateKRW": 339705
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 24,
-    "rateUSD": 253.53,
+    "rateUSD": 298.04,
     "duration": "2-7 days",
-    "rateKRW": 301727
+    "rateKRW": 354257
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 25,
-    "rateUSD": 263.93,
+    "rateUSD": 310.29,
     "duration": "2-7 days",
-    "rateKRW": 314091
+    "rateKRW": 368809
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 26,
-    "rateUSD": 274.34,
+    "rateUSD": 322.53,
     "duration": "2-7 days",
-    "rateKRW": 326454
+    "rateKRW": 383362
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 27,
-    "rateUSD": 284.74,
+    "rateUSD": 334.77,
     "duration": "2-7 days",
-    "rateKRW": 338818
+    "rateKRW": 397914
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 28,
-    "rateUSD": 295.14,
+    "rateUSD": 347.02,
     "duration": "2-7 days",
-    "rateKRW": 351182
+    "rateKRW": 412467
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 29,
-    "rateUSD": 305.54,
+    "rateUSD": 359.26,
     "duration": "2-7 days",
-    "rateKRW": 363545
+    "rateKRW": 427018
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 30,
-    "rateUSD": 315.94,
+    "rateUSD": 371.5,
     "duration": "2-7 days",
-    "rateKRW": 375908
+    "rateKRW": 441571
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 31,
-    "rateUSD": 326.35,
+    "rateUSD": 383.75,
     "duration": "2-7 days",
-    "rateKRW": 388273
+    "rateKRW": 456124
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 32,
-    "rateUSD": 336.75,
+    "rateUSD": 395.99,
     "duration": "2-7 days",
-    "rateKRW": 400636
+    "rateKRW": 470676
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 33,
-    "rateUSD": 347.15,
+    "rateUSD": 408.23,
     "duration": "2-7 days",
-    "rateKRW": 413000
+    "rateKRW": 485228
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 34,
-    "rateUSD": 357.55,
+    "rateUSD": 420.47,
     "duration": "2-7 days",
-    "rateKRW": 425362
+    "rateKRW": 499780
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 35,
-    "rateUSD": 367.95,
+    "rateUSD": 432.72,
     "duration": "2-7 days",
-    "rateKRW": 437727
+    "rateKRW": 514333
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 36,
-    "rateUSD": 378.35,
+    "rateUSD": 444.96,
     "duration": "2-7 days",
-    "rateKRW": 450091
+    "rateKRW": 528886
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 37,
-    "rateUSD": 388.75,
+    "rateUSD": 457.2,
     "duration": "2-7 days",
-    "rateKRW": 462454
+    "rateKRW": 543437
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 38,
-    "rateUSD": 399.16,
+    "rateUSD": 469.45,
     "duration": "2-7 days",
-    "rateKRW": 474818
+    "rateKRW": 557991
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 39,
-    "rateUSD": 409.56,
+    "rateUSD": 481.69,
     "duration": "2-7 days",
-    "rateKRW": 487181
+    "rateKRW": 572542
   },
   {
     "country": "Canada",
     "carrier": "UPS (Express)",
     "maxWeight": 40,
-    "rateUSD": 419.96,
+    "rateUSD": 493.93,
     "duration": "2-7 days",
-    "rateKRW": 499545
+    "rateKRW": 587095
   },
   {
     "country": "China",
@@ -15883,481 +15883,481 @@
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 0.5,
-    "rateUSD": 44.68,
+    "rateUSD": 47.61,
     "duration": "2-7 days",
-    "rateKRW": 53486
+    "rateKRW": 56595
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 1,
-    "rateUSD": 48.93,
+    "rateUSD": 52.74,
     "duration": "2-7 days",
-    "rateKRW": 58532
+    "rateKRW": 62681
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 1.5,
-    "rateUSD": 53.01,
+    "rateUSD": 57.69,
     "duration": "2-7 days",
-    "rateKRW": 63388
+    "rateKRW": 68569
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 2,
-    "rateUSD": 57.04,
+    "rateUSD": 62.58,
     "duration": "2-7 days",
-    "rateKRW": 68180
+    "rateKRW": 74388
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 2.5,
-    "rateUSD": 61.18,
+    "rateUSD": 67.59,
     "duration": "2-7 days",
-    "rateKRW": 73099
+    "rateKRW": 80342
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 3,
-    "rateUSD": 65.19,
+    "rateUSD": 72.46,
     "duration": "2-7 days",
-    "rateKRW": 77857
+    "rateKRW": 86127
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 3.5,
-    "rateUSD": 68.87,
+    "rateUSD": 76.99,
     "duration": "2-7 days",
-    "rateKRW": 82233
+    "rateKRW": 91511
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 4,
-    "rateUSD": 72.6,
+    "rateUSD": 81.58,
     "duration": "2-7 days",
-    "rateKRW": 86673
+    "rateKRW": 96962
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 4.5,
-    "rateUSD": 77.2,
+    "rateUSD": 87.06,
     "duration": "2-7 days",
-    "rateKRW": 92135
+    "rateKRW": 103485
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 5,
-    "rateUSD": 80.99,
+    "rateUSD": 91.71,
     "duration": "2-7 days",
-    "rateKRW": 96640
+    "rateKRW": 109004
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 5.5,
-    "rateUSD": 99.64,
+    "rateUSD": 111.92,
     "duration": "2-7 days",
-    "rateKRW": 118810
+    "rateKRW": 133029
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 6,
-    "rateUSD": 104.13,
+    "rateUSD": 117.29,
     "duration": "2-7 days",
-    "rateKRW": 124141
+    "rateKRW": 139415
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 6.5,
-    "rateUSD": 108.58,
+    "rateUSD": 122.63,
     "duration": "2-7 days",
-    "rateKRW": 129434
+    "rateKRW": 145760
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 7,
-    "rateUSD": 112.94,
+    "rateUSD": 127.87,
     "duration": "2-7 days",
-    "rateKRW": 134615
+    "rateKRW": 151987
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 7.5,
-    "rateUSD": 116.18,
+    "rateUSD": 131.94,
     "duration": "2-7 days",
-    "rateKRW": 138471
+    "rateKRW": 156827
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 8,
-    "rateUSD": 120.48,
+    "rateUSD": 137.11,
     "duration": "2-7 days",
-    "rateKRW": 143576
+    "rateKRW": 162975
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 8.5,
-    "rateUSD": 124.74,
+    "rateUSD": 142.25,
     "duration": "2-7 days",
-    "rateKRW": 148642
+    "rateKRW": 169082
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 9,
-    "rateUSD": 128.84,
+    "rateUSD": 147.22,
     "duration": "2-7 days",
-    "rateKRW": 153520
+    "rateKRW": 174993
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 9.5,
-    "rateUSD": 133.14,
+    "rateUSD": 152.4,
     "duration": "2-7 days",
-    "rateKRW": 158624
+    "rateKRW": 181140
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 10,
-    "rateUSD": 137.46,
+    "rateUSD": 157.6,
     "duration": "2-7 days",
-    "rateKRW": 163766
+    "rateKRW": 187327
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 10.5,
-    "rateUSD": 140.52,
+    "rateUSD": 161.47,
     "duration": "2-7 days",
-    "rateKRW": 167397
+    "rateKRW": 191930
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 11,
-    "rateUSD": 143.95,
+    "rateUSD": 165.75,
     "duration": "2-7 days",
-    "rateKRW": 171480
+    "rateKRW": 197007
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 11.5,
-    "rateUSD": 147.29,
+    "rateUSD": 169.92,
     "duration": "2-7 days",
-    "rateKRW": 175451
+    "rateKRW": 201967
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 12,
-    "rateUSD": 150.41,
+    "rateUSD": 173.86,
     "duration": "2-7 days",
-    "rateKRW": 179155
+    "rateKRW": 206648
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 12.5,
-    "rateUSD": 153.81,
+    "rateUSD": 178.1,
     "duration": "2-7 days",
-    "rateKRW": 183201
+    "rateKRW": 211687
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 13,
-    "rateUSD": 157.19,
+    "rateUSD": 182.3,
     "duration": "2-7 days",
-    "rateKRW": 187209
+    "rateKRW": 216685
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 13.5,
-    "rateUSD": 160.49,
+    "rateUSD": 186.44,
     "duration": "2-7 days",
-    "rateKRW": 191141
+    "rateKRW": 221605
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 14,
-    "rateUSD": 163.61,
+    "rateUSD": 190.38,
     "duration": "2-7 days",
-    "rateKRW": 194847
+    "rateKRW": 226288
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 14.5,
-    "rateUSD": 167.05,
+    "rateUSD": 194.65,
     "duration": "2-7 days",
-    "rateKRW": 198930
+    "rateKRW": 231365
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 15,
-    "rateUSD": 170.36,
+    "rateUSD": 198.79,
     "duration": "2-7 days",
-    "rateKRW": 202862
+    "rateKRW": 236284
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 15.5,
-    "rateUSD": 173.54,
+    "rateUSD": 202.8,
     "duration": "2-7 days",
-    "rateKRW": 206643
+    "rateKRW": 241045
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 16,
-    "rateUSD": 176.69,
+    "rateUSD": 206.77,
     "duration": "2-7 days",
-    "rateKRW": 210386
+    "rateKRW": 245767
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 16.5,
-    "rateUSD": 179.9,
+    "rateUSD": 210.81,
     "duration": "2-7 days",
-    "rateKRW": 214205
+    "rateKRW": 250567
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 17,
-    "rateUSD": 183.17,
+    "rateUSD": 214.91,
     "duration": "2-7 days",
-    "rateKRW": 218100
+    "rateKRW": 255447
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 17.5,
-    "rateUSD": 186.48,
+    "rateUSD": 219.05,
     "duration": "2-7 days",
-    "rateKRW": 222032
+    "rateKRW": 260367
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 18,
-    "rateUSD": 188.81,
+    "rateUSD": 222.16,
     "duration": "2-7 days",
-    "rateKRW": 224792
+    "rateKRW": 264059
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 18.5,
-    "rateUSD": 191.26,
+    "rateUSD": 225.4,
     "duration": "2-7 days",
-    "rateKRW": 227704
+    "rateKRW": 267909
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 19,
-    "rateUSD": 195.58,
+    "rateUSD": 230.6,
     "duration": "2-7 days",
-    "rateKRW": 232846
+    "rateKRW": 274096
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 19.5,
-    "rateUSD": 199.05,
+    "rateUSD": 234.91,
     "duration": "2-7 days",
-    "rateKRW": 236968
+    "rateKRW": 279214
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 20,
-    "rateUSD": 203.85,
+    "rateUSD": 240.61,
     "duration": "2-7 days",
-    "rateKRW": 242677
+    "rateKRW": 285995
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 21,
-    "rateUSD": 222.33,
+    "rateUSD": 261.31,
     "duration": "2-7 days",
-    "rateKRW": 264637
+    "rateKRW": 310600
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 22,
-    "rateUSD": 232.73,
+    "rateUSD": 273.56,
     "duration": "2-7 days",
-    "rateKRW": 276999
+    "rateKRW": 325152
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 23,
-    "rateUSD": 243.13,
+    "rateUSD": 285.8,
     "duration": "2-7 days",
-    "rateKRW": 289364
+    "rateKRW": 339705
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 24,
-    "rateUSD": 253.53,
+    "rateUSD": 298.04,
     "duration": "2-7 days",
-    "rateKRW": 301727
+    "rateKRW": 354257
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 25,
-    "rateUSD": 263.93,
+    "rateUSD": 310.29,
     "duration": "2-7 days",
-    "rateKRW": 314091
+    "rateKRW": 368809
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 26,
-    "rateUSD": 274.34,
+    "rateUSD": 322.53,
     "duration": "2-7 days",
-    "rateKRW": 326454
+    "rateKRW": 383362
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 27,
-    "rateUSD": 284.74,
+    "rateUSD": 334.77,
     "duration": "2-7 days",
-    "rateKRW": 338818
+    "rateKRW": 397914
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 28,
-    "rateUSD": 295.14,
+    "rateUSD": 347.02,
     "duration": "2-7 days",
-    "rateKRW": 351182
+    "rateKRW": 412467
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 29,
-    "rateUSD": 305.54,
+    "rateUSD": 359.26,
     "duration": "2-7 days",
-    "rateKRW": 363545
+    "rateKRW": 427018
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 30,
-    "rateUSD": 315.94,
+    "rateUSD": 371.5,
     "duration": "2-7 days",
-    "rateKRW": 375908
+    "rateKRW": 441571
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 31,
-    "rateUSD": 326.35,
+    "rateUSD": 383.75,
     "duration": "2-7 days",
-    "rateKRW": 388273
+    "rateKRW": 456124
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 32,
-    "rateUSD": 336.75,
+    "rateUSD": 395.99,
     "duration": "2-7 days",
-    "rateKRW": 400636
+    "rateKRW": 470676
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 33,
-    "rateUSD": 347.15,
+    "rateUSD": 408.23,
     "duration": "2-7 days",
-    "rateKRW": 413000
+    "rateKRW": 485228
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 34,
-    "rateUSD": 357.55,
+    "rateUSD": 420.47,
     "duration": "2-7 days",
-    "rateKRW": 425362
+    "rateKRW": 499780
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 35,
-    "rateUSD": 367.95,
+    "rateUSD": 432.72,
     "duration": "2-7 days",
-    "rateKRW": 437727
+    "rateKRW": 514333
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 36,
-    "rateUSD": 378.35,
+    "rateUSD": 444.96,
     "duration": "2-7 days",
-    "rateKRW": 450091
+    "rateKRW": 528886
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 37,
-    "rateUSD": 388.75,
+    "rateUSD": 457.2,
     "duration": "2-7 days",
-    "rateKRW": 462454
+    "rateKRW": 543437
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 38,
-    "rateUSD": 399.16,
+    "rateUSD": 469.45,
     "duration": "2-7 days",
-    "rateKRW": 474818
+    "rateKRW": 557991
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 39,
-    "rateUSD": 409.56,
+    "rateUSD": 481.69,
     "duration": "2-7 days",
-    "rateKRW": 487181
+    "rateKRW": 572542
   },
   {
     "country": "Mexico",
     "carrier": "UPS (Express)",
     "maxWeight": 40,
-    "rateUSD": 419.96,
+    "rateUSD": 493.93,
     "duration": "2-7 days",
-    "rateKRW": 499545
+    "rateKRW": 587095
   },
   {
     "country": "Netherlands",
