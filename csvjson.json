@@ -2792,6 +2792,486 @@
     "rateKRW": 52170
   },
   {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 0.5,
+    "rateUSD": 59.38,
+    "duration": "2-7 days",
+    "rateKRW": 70582
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 1,
+    "rateUSD": 67.83,
+    "duration": "2-7 days",
+    "rateKRW": 80618
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 1.5,
+    "rateUSD": 76.27,
+    "duration": "2-7 days",
+    "rateKRW": 90654
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 2,
+    "rateUSD": 84.94,
+    "duration": "2-7 days",
+    "rateKRW": 100958
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 2.5,
+    "rateUSD": 93.44,
+    "duration": "2-7 days",
+    "rateKRW": 111059
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 3,
+    "rateUSD": 102.33,
+    "duration": "2-7 days",
+    "rateKRW": 121630
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 3.5,
+    "rateUSD": 111.05,
+    "duration": "2-7 days",
+    "rateKRW": 132000
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 4,
+    "rateUSD": 119.86,
+    "duration": "2-7 days",
+    "rateKRW": 142471
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 4.5,
+    "rateUSD": 128.67,
+    "duration": "2-7 days",
+    "rateKRW": 152941
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 5,
+    "rateUSD": 137.54,
+    "duration": "2-7 days",
+    "rateKRW": 163479
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 5.5,
+    "rateUSD": 152.87,
+    "duration": "2-7 days",
+    "rateKRW": 181701
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 6,
+    "rateUSD": 162.88,
+    "duration": "2-7 days",
+    "rateKRW": 193596
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 6.5,
+    "rateUSD": 173.03,
+    "duration": "2-7 days",
+    "rateKRW": 205666
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 7,
+    "rateUSD": 183.01,
+    "duration": "2-7 days",
+    "rateKRW": 217526
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 7.5,
+    "rateUSD": 193.05,
+    "duration": "2-7 days",
+    "rateKRW": 229458
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 8,
+    "rateUSD": 202.32,
+    "duration": "2-7 days",
+    "rateKRW": 240481
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 8.5,
+    "rateUSD": 211.83,
+    "duration": "2-7 days",
+    "rateKRW": 251784
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 9,
+    "rateUSD": 221.25,
+    "duration": "2-7 days",
+    "rateKRW": 262981
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 9.5,
+    "rateUSD": 230.53,
+    "duration": "2-7 days",
+    "rateKRW": 274005
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 10,
+    "rateUSD": 239.92,
+    "duration": "2-7 days",
+    "rateKRW": 285167
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 10.5,
+    "rateUSD": 248.25,
+    "duration": "2-7 days",
+    "rateKRW": 295074
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 11,
+    "rateUSD": 256.82,
+    "duration": "2-7 days",
+    "rateKRW": 305259
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 11.5,
+    "rateUSD": 265.42,
+    "duration": "2-7 days",
+    "rateKRW": 315481
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 12,
+    "rateUSD": 273.67,
+    "duration": "2-7 days",
+    "rateKRW": 325283
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 12.5,
+    "rateUSD": 282.32,
+    "duration": "2-7 days",
+    "rateKRW": 335573
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 13,
+    "rateUSD": 289.9,
+    "duration": "2-7 days",
+    "rateKRW": 344572
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 13.5,
+    "rateUSD": 297.35,
+    "duration": "2-7 days",
+    "rateKRW": 353434
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 14,
+    "rateUSD": 304.89,
+    "duration": "2-7 days",
+    "rateKRW": 362397
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 14.5,
+    "rateUSD": 312.52,
+    "duration": "2-7 days",
+    "rateKRW": 371467
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 15,
+    "rateUSD": 320.07,
+    "duration": "2-7 days",
+    "rateKRW": 380432
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 15.5,
+    "rateUSD": 328.66,
+    "duration": "2-7 days",
+    "rateKRW": 390654
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 16,
+    "rateUSD": 337.15,
+    "duration": "2-7 days",
+    "rateKRW": 400735
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 16.5,
+    "rateUSD": 345.66,
+    "duration": "2-7 days",
+    "rateKRW": 410851
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 17,
+    "rateUSD": 354.17,
+    "duration": "2-7 days",
+    "rateKRW": 420968
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 17.5,
+    "rateUSD": 362.68,
+    "duration": "2-7 days",
+    "rateKRW": 431083
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 18,
+    "rateUSD": 368.28,
+    "duration": "2-7 days",
+    "rateKRW": 437745
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 18.5,
+    "rateUSD": 373.8,
+    "duration": "2-7 days",
+    "rateKRW": 444303
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 19,
+    "rateUSD": 379.32,
+    "duration": "2-7 days",
+    "rateKRW": 450859
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 19.5,
+    "rateUSD": 385.63,
+    "duration": "2-7 days",
+    "rateKRW": 458359
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 20,
+    "rateUSD": 395.37,
+    "duration": "2-7 days",
+    "rateKRW": 469940
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 21,
+    "rateUSD": 428.79,
+    "duration": "2-7 days",
+    "rateKRW": 509662
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 22,
+    "rateUSD": 449.01,
+    "duration": "2-7 days",
+    "rateKRW": 533694
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 23,
+    "rateUSD": 469.23,
+    "duration": "2-7 days",
+    "rateKRW": 557725
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 24,
+    "rateUSD": 489.44,
+    "duration": "2-7 days",
+    "rateKRW": 581758
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 25,
+    "rateUSD": 509.66,
+    "duration": "2-7 days",
+    "rateKRW": 605789
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 26,
+    "rateUSD": 529.88,
+    "duration": "2-7 days",
+    "rateKRW": 629820
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 27,
+    "rateUSD": 550.1,
+    "duration": "2-7 days",
+    "rateKRW": 653852
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 28,
+    "rateUSD": 570.32,
+    "duration": "2-7 days",
+    "rateKRW": 677884
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 29,
+    "rateUSD": 590.54,
+    "duration": "2-7 days",
+    "rateKRW": 701916
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 30,
+    "rateUSD": 610.75,
+    "duration": "2-7 days",
+    "rateKRW": 725947
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 31,
+    "rateUSD": 630.97,
+    "duration": "2-7 days",
+    "rateKRW": 749977
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 32,
+    "rateUSD": 651.19,
+    "duration": "2-7 days",
+    "rateKRW": 774011
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 33,
+    "rateUSD": 671.41,
+    "duration": "2-7 days",
+    "rateKRW": 798041
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 34,
+    "rateUSD": 691.63,
+    "duration": "2-7 days",
+    "rateKRW": 822073
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 35,
+    "rateUSD": 711.84,
+    "duration": "2-7 days",
+    "rateKRW": 846104
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 36,
+    "rateUSD": 732.06,
+    "duration": "2-7 days",
+    "rateKRW": 870135
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 37,
+    "rateUSD": 752.28,
+    "duration": "2-7 days",
+    "rateKRW": 894168
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 38,
+    "rateUSD": 772.5,
+    "duration": "2-7 days",
+    "rateKRW": 918199
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 39,
+    "rateUSD": 792.72,
+    "duration": "2-7 days",
+    "rateKRW": 942231
+  },
+  {
+    "country": "Brazil",
+    "carrier": "UPS (Express)",
+    "maxWeight": 40,
+    "rateUSD": 812.94,
+    "duration": "2-7 days",
+    "rateKRW": 966262
+  },
+  {
     "country": "Brunei Darussalam‎",
     "carrier": "EMS",
     "maxWeight": 0.1,
@@ -8086,6 +8566,990 @@
     "rateUSD": 599.75,
     "duration": "2-7 days",
     "rateKRW": 619600
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 0.5,
+    "rateUSD": 48.06,
+    "duration": "2-7 days",
+    "rateKRW": 57126
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 1,
+    "rateUSD": 55.66,
+    "duration": "2-7 days",
+    "rateKRW": 66161
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 1.5,
+    "rateUSD": 63.29,
+    "duration": "2-7 days",
+    "rateKRW": 75230
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 2,
+    "rateUSD": 70.72,
+    "duration": "2-7 days",
+    "rateKRW": 84056
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 2.5,
+    "rateUSD": 78.29,
+    "duration": "2-7 days",
+    "rateKRW": 93055
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 3,
+    "rateUSD": 85.04,
+    "duration": "2-7 days",
+    "rateKRW": 101077
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 3.5,
+    "rateUSD": 91.35,
+    "duration": "2-7 days",
+    "rateKRW": 108577
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 4,
+    "rateUSD": 97.63,
+    "duration": "2-7 days",
+    "rateKRW": 116042
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 4.5,
+    "rateUSD": 103.97,
+    "duration": "2-7 days",
+    "rateKRW": 123576
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 5,
+    "rateUSD": 110.22,
+    "duration": "2-7 days",
+    "rateKRW": 131005
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 5.5,
+    "rateUSD": 120.46,
+    "duration": "2-7 days",
+    "rateKRW": 143177
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 6,
+    "rateUSD": 127.19,
+    "duration": "2-7 days",
+    "rateKRW": 151176
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 6.5,
+    "rateUSD": 133.64,
+    "duration": "2-7 days",
+    "rateKRW": 158851
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 7,
+    "rateUSD": 140.37,
+    "duration": "2-7 days",
+    "rateKRW": 166849
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 7.5,
+    "rateUSD": 146.83,
+    "duration": "2-7 days",
+    "rateKRW": 174523
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 8,
+    "rateUSD": 154.05,
+    "duration": "2-7 days",
+    "rateKRW": 183103
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 8.5,
+    "rateUSD": 161.14,
+    "duration": "2-7 days",
+    "rateKRW": 191535
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 9,
+    "rateUSD": 168.33,
+    "duration": "2-7 days",
+    "rateKRW": 200077
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 9.5,
+    "rateUSD": 175.55,
+    "duration": "2-7 days",
+    "rateKRW": 208656
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 10,
+    "rateUSD": 182.58,
+    "duration": "2-7 days",
+    "rateKRW": 217018
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 10.5,
+    "rateUSD": 189.01,
+    "duration": "2-7 days",
+    "rateKRW": 224655
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 11,
+    "rateUSD": 195.46,
+    "duration": "2-7 days",
+    "rateKRW": 232329
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 11.5,
+    "rateUSD": 201.77,
+    "duration": "2-7 days",
+    "rateKRW": 239824
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 12,
+    "rateUSD": 208.19,
+    "duration": "2-7 days",
+    "rateKRW": 247460
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 12.5,
+    "rateUSD": 214.53,
+    "duration": "2-7 days",
+    "rateKRW": 254990
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 13,
+    "rateUSD": 220.95,
+    "duration": "2-7 days",
+    "rateKRW": 262628
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 13.5,
+    "rateUSD": 227.29,
+    "duration": "2-7 days",
+    "rateKRW": 270158
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 14,
+    "rateUSD": 233.84,
+    "duration": "2-7 days",
+    "rateKRW": 277940
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 14.5,
+    "rateUSD": 240.2,
+    "duration": "2-7 days",
+    "rateKRW": 285505
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 15,
+    "rateUSD": 246.66,
+    "duration": "2-7 days",
+    "rateKRW": 293179
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 15.5,
+    "rateUSD": 249.64,
+    "duration": "2-7 days",
+    "rateKRW": 296728
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 16,
+    "rateUSD": 252.51,
+    "duration": "2-7 days",
+    "rateKRW": 300134
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 16.5,
+    "rateUSD": 255.55,
+    "duration": "2-7 days",
+    "rateKRW": 303755
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 17,
+    "rateUSD": 258.45,
+    "duration": "2-7 days",
+    "rateKRW": 307197
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 17.5,
+    "rateUSD": 261.32,
+    "duration": "2-7 days",
+    "rateKRW": 310602
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 18,
+    "rateUSD": 266.49,
+    "duration": "2-7 days",
+    "rateKRW": 316755
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 18.5,
+    "rateUSD": 271.7,
+    "duration": "2-7 days",
+    "rateKRW": 322946
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 19,
+    "rateUSD": 278.65,
+    "duration": "2-7 days",
+    "rateKRW": 331200
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 19.5,
+    "rateUSD": 285.59,
+    "duration": "2-7 days",
+    "rateKRW": 339454
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 20,
+    "rateUSD": 292.53,
+    "duration": "2-7 days",
+    "rateKRW": 347705
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 21,
+    "rateUSD": 316.87,
+    "duration": "2-7 days",
+    "rateKRW": 376629
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 22,
+    "rateUSD": 331.75,
+    "duration": "2-7 days",
+    "rateKRW": 394326
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 23,
+    "rateUSD": 346.64,
+    "duration": "2-7 days",
+    "rateKRW": 412023
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 24,
+    "rateUSD": 361.53,
+    "duration": "2-7 days",
+    "rateKRW": 429720
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 25,
+    "rateUSD": 376.42,
+    "duration": "2-7 days",
+    "rateKRW": 447416
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 26,
+    "rateUSD": 391.31,
+    "duration": "2-7 days",
+    "rateKRW": 465113
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 27,
+    "rateUSD": 406.2,
+    "duration": "2-7 days",
+    "rateKRW": 482810
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 28,
+    "rateUSD": 421.09,
+    "duration": "2-7 days",
+    "rateKRW": 500506
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 29,
+    "rateUSD": 435.98,
+    "duration": "2-7 days",
+    "rateKRW": 518204
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 30,
+    "rateUSD": 450.86,
+    "duration": "2-7 days",
+    "rateKRW": 535900
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 31,
+    "rateUSD": 465.75,
+    "duration": "2-7 days",
+    "rateKRW": 553595
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 32,
+    "rateUSD": 480.64,
+    "duration": "2-7 days",
+    "rateKRW": 571294
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 33,
+    "rateUSD": 495.53,
+    "duration": "2-7 days",
+    "rateKRW": 588989
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 34,
+    "rateUSD": 510.42,
+    "duration": "2-7 days",
+    "rateKRW": 606686
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 35,
+    "rateUSD": 525.31,
+    "duration": "2-7 days",
+    "rateKRW": 624383
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 36,
+    "rateUSD": 540.19,
+    "duration": "2-7 days",
+    "rateKRW": 642079
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 37,
+    "rateUSD": 555.08,
+    "duration": "2-7 days",
+    "rateKRW": 659776
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 38,
+    "rateUSD": 569.97,
+    "duration": "2-7 days",
+    "rateKRW": 677473
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 39,
+    "rateUSD": 584.86,
+    "duration": "2-7 days",
+    "rateKRW": 695170
+  },
+  {
+    "country": "Estonia",
+    "carrier": "UPS (Express)",
+    "maxWeight": 40,
+    "rateUSD": 599.75,
+    "duration": "2-7 days",
+    "rateKRW": 712866
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 0.5,
+    "rateUSD": 28.35,
+    "duration": "7-10 days",
+    "rateKRW": "33,700"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 0.75,
+    "rateUSD": 31.8,
+    "duration": "7-10 days",
+    "rateKRW": "37,800"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 1,
+    "rateUSD": 35.25,
+    "duration": "7-10 days",
+    "rateKRW": "41,900"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 1.25,
+    "rateUSD": 37.86,
+    "duration": "7-10 days",
+    "rateKRW": "45,000"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 1.5,
+    "rateUSD": 40.47,
+    "duration": "7-10 days",
+    "rateKRW": "48,100"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 1.75,
+    "rateUSD": 43.08,
+    "duration": "7-10 days",
+    "rateKRW": "51,200"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 2,
+    "rateUSD": 45.68,
+    "duration": "7-10 days",
+    "rateKRW": "54,300"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 2.5,
+    "rateUSD": 53.42,
+    "duration": "7-10 days",
+    "rateKRW": "63,500"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 3,
+    "rateUSD": 58.22,
+    "duration": "7-10 days",
+    "rateKRW": "69,200"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 3.5,
+    "rateUSD": 64.28,
+    "duration": "7-10 days",
+    "rateKRW": "76,400"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 4,
+    "rateUSD": 69.49,
+    "duration": "7-10 days",
+    "rateKRW": "82,600"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 4.5,
+    "rateUSD": 75.13,
+    "duration": "7-10 days",
+    "rateKRW": "89,300"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 5,
+    "rateUSD": 80.35,
+    "duration": "7-10 days",
+    "rateKRW": "95,500"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 5.5,
+    "rateUSD": 85.14,
+    "duration": "7-10 days",
+    "rateKRW": "101,200"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 6,
+    "rateUSD": 90.36,
+    "duration": "7-10 days",
+    "rateKRW": "107,400"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 6.5,
+    "rateUSD": 96.42,
+    "duration": "7-10 days",
+    "rateKRW": "114,600"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 7,
+    "rateUSD": 102.47,
+    "duration": "7-10 days",
+    "rateKRW": "121,800"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 7.5,
+    "rateUSD": 108.53,
+    "duration": "7-10 days",
+    "rateKRW": "129,000"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 8,
+    "rateUSD": 114.59,
+    "duration": "7-10 days",
+    "rateKRW": "136,200"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 8.5,
+    "rateUSD": 120.22,
+    "duration": "7-10 days",
+    "rateKRW": "142,900"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 9,
+    "rateUSD": 126.28,
+    "duration": "7-10 days",
+    "rateKRW": "150,100"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 9.5,
+    "rateUSD": 132.34,
+    "duration": "7-10 days",
+    "rateKRW": "157,300"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 10,
+    "rateUSD": 138.4,
+    "duration": "7-10 days",
+    "rateKRW": "164,500"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 10.5,
+    "rateUSD": 144.45,
+    "duration": "7-10 days",
+    "rateKRW": "171,700"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 11,
+    "rateUSD": 150.51,
+    "duration": "7-10 days",
+    "rateKRW": "178,900"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 11.5,
+    "rateUSD": 156.57,
+    "duration": "7-10 days",
+    "rateKRW": "186,100"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 12,
+    "rateUSD": 162.63,
+    "duration": "7-10 days",
+    "rateKRW": "193,300"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 12.5,
+    "rateUSD": 168.68,
+    "duration": "7-10 days",
+    "rateKRW": "200,500"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 13,
+    "rateUSD": 174.74,
+    "duration": "7-10 days",
+    "rateKRW": "207,700"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 13.5,
+    "rateUSD": 180.8,
+    "duration": "7-10 days",
+    "rateKRW": "214,900"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 14,
+    "rateUSD": 186.86,
+    "duration": "7-10 days",
+    "rateKRW": "222,100"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 14.5,
+    "rateUSD": 192.91,
+    "duration": "7-10 days",
+    "rateKRW": "229,300"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 15,
+    "rateUSD": 198.55,
+    "duration": "7-10 days",
+    "rateKRW": "236,000"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 15.5,
+    "rateUSD": 204.61,
+    "duration": "7-10 days",
+    "rateKRW": "243,200"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 16,
+    "rateUSD": 210.67,
+    "duration": "7-10 days",
+    "rateKRW": "250,400"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 16.5,
+    "rateUSD": 216.72,
+    "duration": "7-10 days",
+    "rateKRW": "257,600"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 17,
+    "rateUSD": 222.78,
+    "duration": "7-10 days",
+    "rateKRW": "264,800"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 17.5,
+    "rateUSD": 228.84,
+    "duration": "7-10 days",
+    "rateKRW": "272,000"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 18,
+    "rateUSD": 234.9,
+    "duration": "7-10 days",
+    "rateKRW": "279,200"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 18.5,
+    "rateUSD": 240.95,
+    "duration": "7-10 days",
+    "rateKRW": "286,400"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 19,
+    "rateUSD": 247.01,
+    "duration": "7-10 days",
+    "rateKRW": "293,600"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 19.5,
+    "rateUSD": 253.07,
+    "duration": "7-10 days",
+    "rateKRW": "300,800"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 20,
+    "rateUSD": 259.13,
+    "duration": "7-10 days",
+    "rateKRW": "308,000"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 20.5,
+    "rateUSD": 265.18,
+    "duration": "7-10 days",
+    "rateKRW": "315,200"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 21,
+    "rateUSD": 270.82,
+    "duration": "7-10 days",
+    "rateKRW": "321,900"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 21.5,
+    "rateUSD": 276.88,
+    "duration": "7-10 days",
+    "rateKRW": "329,100"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 22,
+    "rateUSD": 282.94,
+    "duration": "7-10 days",
+    "rateKRW": "336,300"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 22.5,
+    "rateUSD": 288.99,
+    "duration": "7-10 days",
+    "rateKRW": "343,500"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 23,
+    "rateUSD": 295.05,
+    "duration": "7-10 days",
+    "rateKRW": "350,700"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 23.5,
+    "rateUSD": 301.11,
+    "duration": "7-10 days",
+    "rateKRW": "357,900"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 24,
+    "rateUSD": 307.17,
+    "duration": "7-10 days",
+    "rateKRW": "365,100"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 24.5,
+    "rateUSD": 313.22,
+    "duration": "7-10 days",
+    "rateKRW": "372,300"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 25,
+    "rateUSD": 319.28,
+    "duration": "7-10 days",
+    "rateKRW": "379,500"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 25.5,
+    "rateUSD": 325.34,
+    "duration": "7-10 days",
+    "rateKRW": "386,700"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 26,
+    "rateUSD": 331.4,
+    "duration": "7-10 days",
+    "rateKRW": "393,900"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 26.5,
+    "rateUSD": 337.45,
+    "duration": "7-10 days",
+    "rateKRW": "401,100"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 27,
+    "rateUSD": 343.51,
+    "duration": "7-10 days",
+    "rateKRW": "408,300"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 27.5,
+    "rateUSD": 349.15,
+    "duration": "7-10 days",
+    "rateKRW": "415,000"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 28,
+    "rateUSD": 355.21,
+    "duration": "7-10 days",
+    "rateKRW": "422,200"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 28.5,
+    "rateUSD": 361.26,
+    "duration": "7-10 days",
+    "rateKRW": "429,400"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 29,
+    "rateUSD": 367.32,
+    "duration": "7-10 days",
+    "rateKRW": "436,600"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 29.5,
+    "rateUSD": 373.38,
+    "duration": "7-10 days",
+    "rateKRW": "443,800"
+  },
+  {
+    "country": "Estonia",
+    "carrier": "EMS",
+    "maxWeight": 30,
+    "rateUSD": 379.44,
+    "duration": "7-10 days",
+    "rateKRW": "451,000"
   },
   {
     "country": "Finland",
@@ -31422,965 +32886,5 @@
     "rateUSD": 419.96,
     "duration": "2-7 days",
     "rateKRW": 587095
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 0.5,
-    "rateUSD": 48.06,
-    "duration": "2-7 days",
-    "rateKRW": 57126
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 1,
-    "rateUSD": 55.66,
-    "duration": "2-7 days",
-    "rateKRW": 66161
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 1.5,
-    "rateUSD": 63.29,
-    "duration": "2-7 days",
-    "rateKRW": 75230
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 2,
-    "rateUSD": 70.72,
-    "duration": "2-7 days",
-    "rateKRW": 84056
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 2.5,
-    "rateUSD": 78.29,
-    "duration": "2-7 days",
-    "rateKRW": 93055
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 3,
-    "rateUSD": 85.04,
-    "duration": "2-7 days",
-    "rateKRW": 101077
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 3.5,
-    "rateUSD": 91.35,
-    "duration": "2-7 days",
-    "rateKRW": 108577
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 4,
-    "rateUSD": 97.63,
-    "duration": "2-7 days",
-    "rateKRW": 116042
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 4.5,
-    "rateUSD": 103.97,
-    "duration": "2-7 days",
-    "rateKRW": 123576
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 5,
-    "rateUSD": 110.22,
-    "duration": "2-7 days",
-    "rateKRW": 131005
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 5.5,
-    "rateUSD": 120.46,
-    "duration": "2-7 days",
-    "rateKRW": 143177
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 6,
-    "rateUSD": 127.19,
-    "duration": "2-7 days",
-    "rateKRW": 151176
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 6.5,
-    "rateUSD": 133.64,
-    "duration": "2-7 days",
-    "rateKRW": 158851
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 7,
-    "rateUSD": 140.37,
-    "duration": "2-7 days",
-    "rateKRW": 166849
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 7.5,
-    "rateUSD": 146.83,
-    "duration": "2-7 days",
-    "rateKRW": 174523
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 8,
-    "rateUSD": 154.05,
-    "duration": "2-7 days",
-    "rateKRW": 183103
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 8.5,
-    "rateUSD": 161.14,
-    "duration": "2-7 days",
-    "rateKRW": 191535
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 9,
-    "rateUSD": 168.33,
-    "duration": "2-7 days",
-    "rateKRW": 200077
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 9.5,
-    "rateUSD": 175.55,
-    "duration": "2-7 days",
-    "rateKRW": 208656
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 10,
-    "rateUSD": 182.58,
-    "duration": "2-7 days",
-    "rateKRW": 217018
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 10.5,
-    "rateUSD": 189.01,
-    "duration": "2-7 days",
-    "rateKRW": 224655
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 11,
-    "rateUSD": 195.46,
-    "duration": "2-7 days",
-    "rateKRW": 232329
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 11.5,
-    "rateUSD": 201.77,
-    "duration": "2-7 days",
-    "rateKRW": 239824
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 12,
-    "rateUSD": 208.19,
-    "duration": "2-7 days",
-    "rateKRW": 247460
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 12.5,
-    "rateUSD": 214.53,
-    "duration": "2-7 days",
-    "rateKRW": 254990
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 13,
-    "rateUSD": 220.95,
-    "duration": "2-7 days",
-    "rateKRW": 262628
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 13.5,
-    "rateUSD": 227.29,
-    "duration": "2-7 days",
-    "rateKRW": 270158
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 14,
-    "rateUSD": 233.84,
-    "duration": "2-7 days",
-    "rateKRW": 277940
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 14.5,
-    "rateUSD": 240.2,
-    "duration": "2-7 days",
-    "rateKRW": 285505
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 15,
-    "rateUSD": 246.66,
-    "duration": "2-7 days",
-    "rateKRW": 293179
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 15.5,
-    "rateUSD": 249.64,
-    "duration": "2-7 days",
-    "rateKRW": 296728
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 16,
-    "rateUSD": 252.51,
-    "duration": "2-7 days",
-    "rateKRW": 300134
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 16.5,
-    "rateUSD": 255.55,
-    "duration": "2-7 days",
-    "rateKRW": 303755
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 17,
-    "rateUSD": 258.45,
-    "duration": "2-7 days",
-    "rateKRW": 307197
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 17.5,
-    "rateUSD": 261.32,
-    "duration": "2-7 days",
-    "rateKRW": 310602
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 18,
-    "rateUSD": 266.49,
-    "duration": "2-7 days",
-    "rateKRW": 316755
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 18.5,
-    "rateUSD": 271.7,
-    "duration": "2-7 days",
-    "rateKRW": 322946
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 19,
-    "rateUSD": 278.65,
-    "duration": "2-7 days",
-    "rateKRW": 331200
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 19.5,
-    "rateUSD": 285.59,
-    "duration": "2-7 days",
-    "rateKRW": 339454
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 20,
-    "rateUSD": 292.53,
-    "duration": "2-7 days",
-    "rateKRW": 347705
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 21,
-    "rateUSD": 316.87,
-    "duration": "2-7 days",
-    "rateKRW": 376629
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 22,
-    "rateUSD": 331.75,
-    "duration": "2-7 days",
-    "rateKRW": 394326
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 23,
-    "rateUSD": 346.64,
-    "duration": "2-7 days",
-    "rateKRW": 412023
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 24,
-    "rateUSD": 361.53,
-    "duration": "2-7 days",
-    "rateKRW": 429720
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 25,
-    "rateUSD": 376.42,
-    "duration": "2-7 days",
-    "rateKRW": 447416
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 26,
-    "rateUSD": 391.31,
-    "duration": "2-7 days",
-    "rateKRW": 465113
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 27,
-    "rateUSD": 406.2,
-    "duration": "2-7 days",
-    "rateKRW": 482810
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 28,
-    "rateUSD": 421.09,
-    "duration": "2-7 days",
-    "rateKRW": 500506
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 29,
-    "rateUSD": 435.98,
-    "duration": "2-7 days",
-    "rateKRW": 518204
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 30,
-    "rateUSD": 450.86,
-    "duration": "2-7 days",
-    "rateKRW": 535900
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 31,
-    "rateUSD": 465.75,
-    "duration": "2-7 days",
-    "rateKRW": 553595
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 32,
-    "rateUSD": 480.64,
-    "duration": "2-7 days",
-    "rateKRW": 571294
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 33,
-    "rateUSD": 495.53,
-    "duration": "2-7 days",
-    "rateKRW": 588989
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 34,
-    "rateUSD": 510.42,
-    "duration": "2-7 days",
-    "rateKRW": 606686
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 35,
-    "rateUSD": 525.31,
-    "duration": "2-7 days",
-    "rateKRW": 624383
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 36,
-    "rateUSD": 540.19,
-    "duration": "2-7 days",
-    "rateKRW": 642079
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 37,
-    "rateUSD": 555.08,
-    "duration": "2-7 days",
-    "rateKRW": 659776
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 38,
-    "rateUSD": 569.97,
-    "duration": "2-7 days",
-    "rateKRW": 677473
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 39,
-    "rateUSD": 584.86,
-    "duration": "2-7 days",
-    "rateKRW": 695170
-  },
-  {
-    "country": "Estonia",
-    "carrier": "UPS (Express)",
-    "maxWeight": 40,
-    "rateUSD": 599.75,
-    "duration": "2-7 days",
-    "rateKRW": 712866
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 0.5,
-    "rateUSD": 59.38,
-    "duration": "2-7 days",
-    "rateKRW": 70582
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 1,
-    "rateUSD": 67.83,
-    "duration": "2-7 days",
-    "rateKRW": 80618
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 1.5,
-    "rateUSD": 76.27,
-    "duration": "2-7 days",
-    "rateKRW": 90654
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 2,
-    "rateUSD": 84.94,
-    "duration": "2-7 days",
-    "rateKRW": 100958
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 2.5,
-    "rateUSD": 93.44,
-    "duration": "2-7 days",
-    "rateKRW": 111059
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 3,
-    "rateUSD": 102.33,
-    "duration": "2-7 days",
-    "rateKRW": 121630
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 3.5,
-    "rateUSD": 111.05,
-    "duration": "2-7 days",
-    "rateKRW": 132000
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 4,
-    "rateUSD": 119.86,
-    "duration": "2-7 days",
-    "rateKRW": 142471
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 4.5,
-    "rateUSD": 128.67,
-    "duration": "2-7 days",
-    "rateKRW": 152941
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 5,
-    "rateUSD": 137.54,
-    "duration": "2-7 days",
-    "rateKRW": 163479
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 5.5,
-    "rateUSD": 152.87,
-    "duration": "2-7 days",
-    "rateKRW": 181701
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 6,
-    "rateUSD": 162.88,
-    "duration": "2-7 days",
-    "rateKRW": 193596
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 6.5,
-    "rateUSD": 173.03,
-    "duration": "2-7 days",
-    "rateKRW": 205666
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 7,
-    "rateUSD": 183.01,
-    "duration": "2-7 days",
-    "rateKRW": 217526
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 7.5,
-    "rateUSD": 193.05,
-    "duration": "2-7 days",
-    "rateKRW": 229458
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 8,
-    "rateUSD": 202.32,
-    "duration": "2-7 days",
-    "rateKRW": 240481
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 8.5,
-    "rateUSD": 211.83,
-    "duration": "2-7 days",
-    "rateKRW": 251784
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 9,
-    "rateUSD": 221.25,
-    "duration": "2-7 days",
-    "rateKRW": 262981
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 9.5,
-    "rateUSD": 230.53,
-    "duration": "2-7 days",
-    "rateKRW": 274005
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 10,
-    "rateUSD": 239.92,
-    "duration": "2-7 days",
-    "rateKRW": 285167
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 10.5,
-    "rateUSD": 248.25,
-    "duration": "2-7 days",
-    "rateKRW": 295074
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 11,
-    "rateUSD": 256.82,
-    "duration": "2-7 days",
-    "rateKRW": 305259
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 11.5,
-    "rateUSD": 265.42,
-    "duration": "2-7 days",
-    "rateKRW": 315481
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 12,
-    "rateUSD": 273.67,
-    "duration": "2-7 days",
-    "rateKRW": 325283
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 12.5,
-    "rateUSD": 282.32,
-    "duration": "2-7 days",
-    "rateKRW": 335573
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 13,
-    "rateUSD": 289.9,
-    "duration": "2-7 days",
-    "rateKRW": 344572
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 13.5,
-    "rateUSD": 297.35,
-    "duration": "2-7 days",
-    "rateKRW": 353434
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 14,
-    "rateUSD": 304.89,
-    "duration": "2-7 days",
-    "rateKRW": 362397
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 14.5,
-    "rateUSD": 312.52,
-    "duration": "2-7 days",
-    "rateKRW": 371467
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 15,
-    "rateUSD": 320.07,
-    "duration": "2-7 days",
-    "rateKRW": 380432
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 15.5,
-    "rateUSD": 328.66,
-    "duration": "2-7 days",
-    "rateKRW": 390654
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 16,
-    "rateUSD": 337.15,
-    "duration": "2-7 days",
-    "rateKRW": 400735
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 16.5,
-    "rateUSD": 345.66,
-    "duration": "2-7 days",
-    "rateKRW": 410851
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 17,
-    "rateUSD": 354.17,
-    "duration": "2-7 days",
-    "rateKRW": 420968
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 17.5,
-    "rateUSD": 362.68,
-    "duration": "2-7 days",
-    "rateKRW": 431083
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 18,
-    "rateUSD": 368.28,
-    "duration": "2-7 days",
-    "rateKRW": 437745
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 18.5,
-    "rateUSD": 373.8,
-    "duration": "2-7 days",
-    "rateKRW": 444303
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 19,
-    "rateUSD": 379.32,
-    "duration": "2-7 days",
-    "rateKRW": 450859
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 19.5,
-    "rateUSD": 385.63,
-    "duration": "2-7 days",
-    "rateKRW": 458359
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 20,
-    "rateUSD": 395.37,
-    "duration": "2-7 days",
-    "rateKRW": 469940
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 21,
-    "rateUSD": 428.79,
-    "duration": "2-7 days",
-    "rateKRW": 509662
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 22,
-    "rateUSD": 449.01,
-    "duration": "2-7 days",
-    "rateKRW": 533694
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 23,
-    "rateUSD": 469.23,
-    "duration": "2-7 days",
-    "rateKRW": 557725
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 24,
-    "rateUSD": 489.44,
-    "duration": "2-7 days",
-    "rateKRW": 581758
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 25,
-    "rateUSD": 509.66,
-    "duration": "2-7 days",
-    "rateKRW": 605789
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 26,
-    "rateUSD": 529.88,
-    "duration": "2-7 days",
-    "rateKRW": 629820
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 27,
-    "rateUSD": 550.1,
-    "duration": "2-7 days",
-    "rateKRW": 653852
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 28,
-    "rateUSD": 570.32,
-    "duration": "2-7 days",
-    "rateKRW": 677884
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 29,
-    "rateUSD": 590.54,
-    "duration": "2-7 days",
-    "rateKRW": 701916
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 30,
-    "rateUSD": 610.75,
-    "duration": "2-7 days",
-    "rateKRW": 725947
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 31,
-    "rateUSD": 630.97,
-    "duration": "2-7 days",
-    "rateKRW": 749977
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 32,
-    "rateUSD": 651.19,
-    "duration": "2-7 days",
-    "rateKRW": 774011
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 33,
-    "rateUSD": 671.41,
-    "duration": "2-7 days",
-    "rateKRW": 798041
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 34,
-    "rateUSD": 691.63,
-    "duration": "2-7 days",
-    "rateKRW": 822073
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 35,
-    "rateUSD": 711.84,
-    "duration": "2-7 days",
-    "rateKRW": 846104
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 36,
-    "rateUSD": 732.06,
-    "duration": "2-7 days",
-    "rateKRW": 870135
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 37,
-    "rateUSD": 752.28,
-    "duration": "2-7 days",
-    "rateKRW": 894168
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 38,
-    "rateUSD": 772.5,
-    "duration": "2-7 days",
-    "rateKRW": 918199
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 39,
-    "rateUSD": 792.72,
-    "duration": "2-7 days",
-    "rateKRW": 942231
-  },
-  {
-    "country": "Brazil",
-    "carrier": "UPS (Express)",
-    "maxWeight": 40,
-    "rateUSD": 812.94,
-    "duration": "2-7 days",
-    "rateKRW": 966262
   }
 ]
