@@ -33371,344 +33371,344 @@
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 0.5,
-    "rateUSD": 22143,
+    "rateUSD": 18.63,
     "duration": "7-10 days",
-    "rateKRW": 18.63
+    "rateKRW": 22143
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 0.75,
-    "rateUSD": 23160.5,
+    "rateUSD": 19.49,
     "duration": "7-10 days",
-    "rateKRW": 19.49
+    "rateKRW": 23160.5
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 1,
-    "rateUSD": 24178,
+    "rateUSD": 20.34,
     "duration": "7-10 days",
-    "rateKRW": 20.34
+    "rateKRW": 24178
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 1.25,
-    "rateUSD": 26130.5,
+    "rateUSD": 21.98,
     "duration": "7-10 days",
-    "rateKRW": 21.98
+    "rateKRW": 26130.5
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 1.5,
-    "rateUSD": 27148,
+    "rateUSD": 22.84,
     "duration": "7-10 days",
-    "rateKRW": 22.84
+    "rateKRW": 27148
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 1.75,
-    "rateUSD": 29562.5,
+    "rateUSD": 24.87,
     "duration": "7-10 days",
-    "rateKRW": 24.87
+    "rateKRW": 29562.5
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 2,
-    "rateUSD": 31515,
+    "rateUSD": 26.51,
     "duration": "7-10 days",
-    "rateKRW": 26.51
+    "rateKRW": 31515
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 2.5,
-    "rateUSD": 33088,
+    "rateUSD": 27.84,
     "duration": "7-10 days",
-    "rateKRW": 27.84
+    "rateKRW": 33088
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 3,
-    "rateUSD": 35123,
+    "rateUSD": 29.55,
     "duration": "7-10 days",
-    "rateKRW": 29.55
+    "rateKRW": 35123
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 3.5,
-    "rateUSD": 36685,
+    "rateUSD": 30.86,
     "duration": "7-10 days",
-    "rateKRW": 30.86
+    "rateKRW": 36685
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 4,
-    "rateUSD": 38720,
+    "rateUSD": 32.58,
     "duration": "7-10 days",
-    "rateKRW": 32.58
+    "rateKRW": 38720
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 4.5,
-    "rateUSD": 40293,
+    "rateUSD": 33.9,
     "duration": "7-10 days",
-    "rateKRW": 33.9
+    "rateKRW": 40293
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 5,
-    "rateUSD": 41855,
+    "rateUSD": 35.21,
     "duration": "7-10 days",
-    "rateKRW": 35.21
+    "rateKRW": 41855
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 5.5,
-    "rateUSD": 43890,
+    "rateUSD": 36.93,
     "duration": "7-10 days",
-    "rateKRW": 36.93
+    "rateKRW": 43890
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 6,
-    "rateUSD": 45463,
+    "rateUSD": 38.25,
     "duration": "7-10 days",
-    "rateKRW": 38.25
+    "rateKRW": 45463
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 6.5,
-    "rateUSD": 47498,
+    "rateUSD": 39.96,
     "duration": "7-10 days",
-    "rateKRW": 39.96
+    "rateKRW": 47498
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 7,
-    "rateUSD": 49060,
+    "rateUSD": 41.28,
     "duration": "7-10 days",
-    "rateKRW": 41.28
+    "rateKRW": 49060
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 7.5,
-    "rateUSD": 50633,
+    "rateUSD": 42.6,
     "duration": "7-10 days",
-    "rateKRW": 42.6
+    "rateKRW": 50633
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 8,
-    "rateUSD": 52668,
+    "rateUSD": 44.31,
     "duration": "7-10 days",
-    "rateKRW": 44.31
+    "rateKRW": 52668
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 8.5,
-    "rateUSD": 54230,
+    "rateUSD": 45.62,
     "duration": "7-10 days",
-    "rateKRW": 45.62
+    "rateKRW": 54230
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 9,
-    "rateUSD": 56265,
+    "rateUSD": 47.34,
     "duration": "7-10 days",
-    "rateKRW": 47.34
+    "rateKRW": 56265
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 9.5,
-    "rateUSD": 57838,
+    "rateUSD": 48.66,
     "duration": "7-10 days",
-    "rateKRW": 48.66
+    "rateKRW": 57838
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 10,
-    "rateUSD": 59400,
+    "rateUSD": 49.97,
     "duration": "7-10 days",
-    "rateKRW": 49.97
+    "rateKRW": 59400
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 10.5,
-    "rateUSD": 61435,
+    "rateUSD": 51.69,
     "duration": "7-10 days",
-    "rateKRW": 51.69
+    "rateKRW": 61435
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 11,
-    "rateUSD": 63008,
+    "rateUSD": 53.01,
     "duration": "7-10 days",
-    "rateKRW": 53.01
+    "rateKRW": 63008
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 11.5,
-    "rateUSD": 65043,
+    "rateUSD": 54.72,
     "duration": "7-10 days",
-    "rateKRW": 54.72
+    "rateKRW": 65043
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 12,
-    "rateUSD": 66605,
+    "rateUSD": 56.04,
     "duration": "7-10 days",
-    "rateKRW": 56.04
+    "rateKRW": 66605
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 12.5,
-    "rateUSD": 68640,
+    "rateUSD": 57.75,
     "duration": "7-10 days",
-    "rateKRW": 57.75
+    "rateKRW": 68640
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 13,
-    "rateUSD": 70213,
+    "rateUSD": 59.07,
     "duration": "7-10 days",
-    "rateKRW": 59.07
+    "rateKRW": 70213
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 13.5,
-    "rateUSD": 71313,
+    "rateUSD": 60,
     "duration": "7-10 days",
-    "rateKRW": 60
+    "rateKRW": 71313
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 14,
-    "rateUSD": 73348,
+    "rateUSD": 61.71,
     "duration": "7-10 days",
-    "rateKRW": 61.71
+    "rateKRW": 73348
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 14.5,
-    "rateUSD": 74910,
+    "rateUSD": 63.02,
     "duration": "7-10 days",
-    "rateKRW": 63.02
+    "rateKRW": 74910
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 15,
-    "rateUSD": 76483,
+    "rateUSD": 64.35,
     "duration": "7-10 days",
-    "rateKRW": 64.35
+    "rateKRW": 76483
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 15.5,
-    "rateUSD": 78045,
+    "rateUSD": 65.66,
     "duration": "7-10 days",
-    "rateKRW": 65.66
+    "rateKRW": 78045
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 16,
-    "rateUSD": 79618,
+    "rateUSD": 66.98,
     "duration": "7-10 days",
-    "rateKRW": 66.98
+    "rateKRW": 79618
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 16.5,
-    "rateUSD": 81180,
+    "rateUSD": 68.3,
     "duration": "7-10 days",
-    "rateKRW": 68.3
+    "rateKRW": 81180
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 17,
-    "rateUSD": 82753,
+    "rateUSD": 69.62,
     "duration": "7-10 days",
-    "rateKRW": 69.62
+    "rateKRW": 82753
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 17.5,
-    "rateUSD": 84315,
+    "rateUSD": 70.94,
     "duration": "7-10 days",
-    "rateKRW": 70.94
+    "rateKRW": 84315
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 18,
-    "rateUSD": 85888,
+    "rateUSD": 72.26,
     "duration": "7-10 days",
-    "rateKRW": 72.26
+    "rateKRW": 85888
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 18.5,
-    "rateUSD": 87450,
+    "rateUSD": 73.57,
     "duration": "7-10 days",
-    "rateKRW": 73.57
+    "rateKRW": 87450
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 19,
-    "rateUSD": 89023,
+    "rateUSD": 74.9,
     "duration": "7-10 days",
-    "rateKRW": 74.9
+    "rateKRW": 89023
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 19.5,
-    "rateUSD": 90585,
+    "rateUSD": 76.21,
     "duration": "7-10 days",
-    "rateKRW": 76.21
+    "rateKRW": 90585
   },
   {
     "country": "Japan",
     "carrier": "EMS",
     "maxWeight": 20,
-    "rateUSD": 92158,
+    "rateUSD": 77.53,
     "duration": "7-10 days",
-    "rateKRW": 77.53
+    "rateKRW": 92158
   }
 ]
